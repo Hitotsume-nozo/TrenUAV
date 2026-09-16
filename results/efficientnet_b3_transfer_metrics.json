@@ -1,0 +1,85 @@
+{
+  "model_name": "efficientnet_b3",
+  "pretrained": true,
+  "total_params": 10703917,
+  "test_accuracy": 99.91,
+  "macro_f1": 99.88,
+  "latency_ms": 17.86,
+  "fps": 56.0,
+  "per_class": {
+    "Cotton Bollworm Infestation": {
+      "precision": 100.0,
+      "recall": 100.0,
+      "f1_score": 100.0,
+      "support": 155
+    },
+    "Hail damage": {
+      "precision": 100.0,
+      "recall": 100.0,
+      "f1_score": 100.0,
+      "support": 399
+    },
+    "Mixed": {
+      "precision": 100.0,
+      "recall": 99.72,
+      "f1_score": 99.86,
+      "support": 359
+    },
+    "Root Damage": {
+      "precision": 100.0,
+      "recall": 100.0,
+      "f1_score": 100.0,
+      "support": 136
+    },
+    "Strong-Light Burn": {
+      "precision": 99.12,
+      "recall": 100.0,
+      "f1_score": 99.56,
+      "support": 113
+    }
+  },
+  "confusion_matrix": [
+    [
+      155,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      399,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      358,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      136,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      113
+    ]
+  ],
+  "classes": [
+    "Cotton Bollworm Infestation",
+    "Hail damage",
+    "Mixed",
+    "Root Damage",
+    "Strong-Light Burn"
+  ]
+}

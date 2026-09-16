@@ -1,0 +1,20 @@
+{
+  "classes": [
+    "Cotton Bollworm Infestation",
+    "Hail damage",
+    "Mixed",
+    "Root Damage",
+    "Strong-Light Burn"
+  ],
+  "class_to_idx": {
+    "Cotton Bollworm Infestation": 0,
+    "Hail damage": 1,
+    "Mixed": 2,
+    "Root Damage": 3,
+    "Strong-Light Burn": 4
+  },
+  "train_count": 5421,
+  "val_count": 1161,
+  "test_count": 1162,
+  "total_unique": 7744
+}

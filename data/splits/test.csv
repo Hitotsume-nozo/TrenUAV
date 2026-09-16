@@ -1,0 +1,1163 @@
+image_hash,image_path,label,filename,label_idx
+7cf5764f2d8f6a1ece19796997e27c5f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2348.jpg,Hail damage,TN-2348.jpg,1
+936c67dab18c05e801b571c9385fe467,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-947.jpg,Cotton Bollworm Infestation,TN-947.jpg,0
+f464e88f6d382c3288cc48f26d4ecbc1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-397.jpg,Strong-Light Burn,TN-397.jpg,4
+e87c123c55d2aa281838ab95414f4cf0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-351.jpg,Mixed,TN-351.jpg,2
+1b4b52b50d2013db1072f6cea5fec0dc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-618.jpg,Mixed,TN-618.jpg,2
+46f2f6c763f027e829324f37a348a278,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2224.jpg,Mixed,TN-2224.jpg,2
+3996c2b6184251ecdfab9e3015ed41b0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-112.jpg,Mixed,TN-112.jpg,2
+e47d71a26648973976cdd40c3c3f1648,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-253.jpg,Hail damage,TN-253.jpg,1
+92853a0c0ed0252843ea5a77b5033e2a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2508.jpg,Hail damage,TN-2508.jpg,1
+1a702867d4ee58bed7940eba8493e18b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-381.jpg,Mixed,TN-381.jpg,2
+24fc0466af717a5aad2ed4d2f90bdc0b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-147.jpg,Cotton Bollworm Infestation,TN-147.jpg,0
+954a26f67e33a9f2f75eba7c3b6555fb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-574.jpg,Root Damage,TN-574.jpg,3
+0466e4b9ea16600f1723a72771628c2e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-9.jpg,Strong-Light Burn,TN-9.jpg,4
+67a49dd65dcbcb4f283eb8ce95541000,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-71.jpg,Hail damage,TN-71.jpg,1
+d9be17ceee2204572914ed6f5330aa78,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1870.jpg,Hail damage,TN-1870.jpg,1
+52a83e3c73fc1135307fedda99d1b82b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1294.jpg,Mixed,TN-1294.jpg,2
+e14306badf2293a3fe384a6e3ef9b864,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-929.jpg,Cotton Bollworm Infestation,TN-929.jpg,0
+40277bef00eb2e02dd3ab9eb2f336438,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1663.jpg,Hail damage,TN-1663.jpg,1
+2f4705ca95d67b070a2cb49d9c74ddc4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-461.jpg,Root Damage,TN-461.jpg,3
+63c94a43d0133743f4544e82f13953e5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2417.jpg,Mixed,TN-2417.jpg,2
+91d644e6f522f835be2268aa9a831213,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1857.jpg,Hail damage,TN-1857.jpg,1
+6652737f192910c061cfb85425ce0c7c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-904.jpg,Mixed,TN-904.jpg,2
+080d2c986c867663175b31b62696dac5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-664.jpg,Mixed,TN-664.jpg,2
+e01ba92e900c1dbfca92a66cafb1e6fd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-60.jpg,Mixed,TN-60.jpg,2
+8bc8e5309d2e626e30d534ec8f4c3314,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2739.jpg,Hail damage,TN-2739.jpg,1
+6589a79355dd5d437f4c3c930ea3c1ba,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-181.jpg,Mixed,TN-181.jpg,2
+49311671f2c63c6a1cb3a0696a65b843,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-350.jpg,Cotton Bollworm Infestation,TN-350.jpg,0
+da11b082646df22bf2864c194ab13c3a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-55.jpg,Root Damage,TN-55.jpg,3
+2b75ebbb7f5e6c951362b3c22cb9e532,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2102.jpg,Mixed,TN-2102.jpg,2
+6b6917a26ce1bc14c89770411afeccf4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-688.jpg,Root Damage,TN-688.jpg,3
+0566ba6d31294775f0abe05bef07c3b1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-736.jpg,Hail damage,TN-736.jpg,1
+38b826c603416dbc3ab3568a70b08364,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-178.jpg,Root Damage,TN-178.jpg,3
+f2cf84129f8c26c790a48b918dd75257,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-142.jpg,Hail damage,TN-142.jpg,1
+80e3b466a42538623357d169eed7d123,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-653.jpg,Hail damage,TN-653.jpg,1
+f53e6dd14f38e849665760fffe50adfa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-376.jpg,Hail damage,TN-376.jpg,1
+31c591829c755b91e49e0aa7a4cff1ed,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-833.jpg,Hail damage,TN-833.jpg,1
+f714d22a15fff9b01e9211c9aaa4a2a5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-516.jpg,Strong-Light Burn,TN-516.jpg,4
+c2434f6c0ca7075e28115ae0ffa56ce0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-211.jpg,Mixed,TN-211.jpg,2
+83b8fb5ea8f4e4cdc9747f51f62046ed,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2304.jpg,Mixed,TN-2304.jpg,2
+495b93c6ed1dff230aee877f938327e2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-978.jpg,Hail damage,TN-978.jpg,1
+87d47cbcae03b6d0734b941a195b8686,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2188.jpg,Mixed,TN-2188.jpg,2
+cd39d3edbf6ceef099716918f5076de8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-583.jpg,Hail damage,TN-583.jpg,1
+4b4ea74ef37e3b42f5d945ab4424edeb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-122.jpg,Root Damage,TN-122.jpg,3
+c9a8cc252a5b22f0ca76523d5b61e878,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-325.jpg,Mixed,TN-325.jpg,2
+01092f1970c6b745449093185baf47e3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2800.jpg,Hail damage,TN-2800.jpg,1
+cb97cae3977b2d8fd80b4bd3f4eeb193,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-564.jpg,Mixed,TN-564.jpg,2
+f900c1313d69a2abe77b4e3c99b48e91,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1850.jpg,Hail damage,TN-1850.jpg,1
+e8960d48e97a1052835925fe10937d24,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-988.jpg,Hail damage,TN-988.jpg,1
+a8394c5a0339145d2e29cbe779071a39,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-422.jpg,Hail damage,TN-422.jpg,1
+9069ce723cc47362de1c68336fedb9a0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-242.jpg,Hail damage,TN-242.jpg,1
+862a2262c08f2bfe4a5f8528e1e1b2cc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1459.jpg,Hail damage,TN-1459.jpg,1
+3ea473324167e64b66b8fdb5c7186eba,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1460.jpg,Mixed,TN-1460.jpg,2
+41f38565040010affd05c2c887bf08a4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1113.jpg,Mixed,TN-1113.jpg,2
+cf452218b2adcc6bb9c5f659ccc431c4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1744.jpg,Mixed,TN-1744.jpg,2
+5b7b85d5357743f4285f83a019268843,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-980.jpg,Mixed,TN-980.jpg,2
+5032b1e5d186bbcd38ea309ce8e69227,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-590.jpg,Mixed,TN-590.jpg,2
+dc9d3fcf26d4ce1df4902ed9de981bc9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1645.jpg,Mixed,TN-1645.jpg,2
+1ba55518a22be440e2ed7d15370964bb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-761.jpg,Mixed,TN-761.jpg,2
+34c2279ae55b11f7ed1fb19f7ac07ff7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-181.jpg,Root Damage,TN-181.jpg,3
+f4be7a07b024f13d518ef432b3aca40f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-458.jpg,Cotton Bollworm Infestation,TN-458.jpg,0
+c3feeeceb2ac1f99498a0e303551252d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1386.jpg,Hail damage,TN-1386.jpg,1
+0fdc06a2eb5f399bc3185e7a4778b922,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-165.jpg,Root Damage,TN-165.jpg,3
+d8e17420118d61dea0bc7eb50d0b3a4e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-291.jpg,Cotton Bollworm Infestation,TN-291.jpg,0
+98fde7be947145720dd3f2f440ce92fd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1404.jpg,Mixed,TN-1404.jpg,2
+ab09fdf395185dcde5c01b70fe0297c9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-466.jpg,Root Damage,TN-466.jpg,3
+a3902ef6bb87913f181ab3ae5e1f95f2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-629.jpg,Root Damage,TN-629.jpg,3
+9f1d343ab7b4741398af2cb82f4336ba,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1318.jpg,Hail damage,TN-1318.jpg,1
+23abdca78cd6391749d234ce135f2756,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1815.jpg,Hail damage,TN-1815.jpg,1
+ed5f409a9d0c667a2c77e948460161b4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-440.jpg,Root Damage,TN-440.jpg,3
+d1c64e056f24ac69e986438c2f57defc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-621.jpg,Cotton Bollworm Infestation,TN-621.jpg,0
+f9661495da88c8a725f45f523ffef801,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-670.jpg,Strong-Light Burn,TN-670.jpg,4
+194559c764b4bdd52f0d73ca6192e0c6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-809.jpg,Mixed,TN-809.jpg,2
+b5ceb371aee28dcae54e03f004e25c95,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-686.jpg,Mixed,TN-686.jpg,2
+d43f25baa696a167bbb9c99a5b1f1b3a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1598.jpg,Hail damage,TN-1598.jpg,1
+3f5a939fda1b19a170ac56204f2e5aa7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-454.jpg,Mixed,TN-454.jpg,2
+5bffdde72a7ac3eee9609dd263f2e4b3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1899.jpg,Mixed,TN-1899.jpg,2
+1fccc9dbdeb9c69aae6340ba949d039c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2390.jpg,Mixed,TN-2390.jpg,2
+52887ef7b12a36c2932730f3b76a5a8f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1288.jpg,Mixed,TN-1288.jpg,2
+071450066e059ef69f7dfb285ff263b5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-367.jpg,Hail damage,TN-367.jpg,1
+a82657c6565b2d8dead3b2ba7c870c77,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-132.jpg,Strong-Light Burn,TN-132.jpg,4
+451aab6dcbc584e74422116d41fbfd68,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-332.jpg,Root Damage,TN-332.jpg,3
+53fed7bd0ecf1fc5d1f6c10af35a292f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-365.jpg,Cotton Bollworm Infestation,TN-365.jpg,0
+88d3b190494d46139abae74951b4bffb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-489.jpg,Cotton Bollworm Infestation,TN-489.jpg,0
+1ac4e7e16d513d7bff7b509a2ef869c6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-636.jpg,Mixed,TN-636.jpg,2
+eb70e647f851b2492fba7483ca8341b9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2385.jpg,Hail damage,TN-2385.jpg,1
+98d96fae946eb05c6e348be8b797678d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-484.jpg,Hail damage,TN-484.jpg,1
+6a0fda0b26f0bce7a70cf7b6b1cf4f7e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-339.jpg,Mixed,TN-339.jpg,2
+1dac41a5685f318144349723eecc45b6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2000.jpg,Hail damage,TN-2000.jpg,1
+35a0aac9413d44bc1c4c8b70f27f5e0d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2382.jpg,Mixed,TN-2382.jpg,2
+082974f579663978d14cb086564b0dae,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Strong-Light Burn/TN-290.jpg,Strong-Light Burn,TN-290.jpg,4
+a0d991df14c70087a0a86d4ab3f3c54b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Cotton Bollworm Infestation/TN-150.jpg,Cotton Bollworm Infestation,TN-150.jpg,0
+45229edb945bbe30ab48668190c1acbc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1006.jpg,Mixed,TN-1006.jpg,2
+29f05f108f49aab31f25a0e3fc231aa9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2189.jpg,Mixed,TN-2189.jpg,2
+4eda00758d1b5b8c75e02289e1c365bd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-688.jpg,Hail damage,TN-688.jpg,1
+f5e4cb2cc3b7373ea7d03e1a3455b4bf,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-527.jpg,Hail damage,TN-527.jpg,1
+100ac2c3fdc74316c150ebc4cc06f749,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-556.jpg,Hail damage,TN-556.jpg,1
+05a7b2c78d4df1cebe34a0810e02b4be,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2104.jpg,Hail damage,TN-2104.jpg,1
+72da3abd3671fe34610c6da5d59b34d5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-425.jpg,Root Damage,TN-425.jpg,3
+58f7b8e8d2337408d8f7695d296ae0e3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2347.jpg,Mixed,TN-2347.jpg,2
+dbfa5cd8e4f13aca0faddc0c87646803,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-18.jpg,Hail damage,TN-18.jpg,1
+b10bdb6c443c1d452823fbe83d83354b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-292.jpg,Cotton Bollworm Infestation,TN-292.jpg,0
+547bb1392801318f3af1f75b8aef3f53,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-669.jpg,Strong-Light Burn,TN-669.jpg,4
+9fc0512cf5228849438e64a854c1e365,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-784.jpg,Cotton Bollworm Infestation,TN-784.jpg,0
+5181eab8eabe0a88398f94518f7489a3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2255.jpg,Hail damage,TN-2255.jpg,1
+50922c790a2da95c5c6c8460872e6e99,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-682.jpg,Cotton Bollworm Infestation,TN-682.jpg,0
+569d08b191a48e6ce55858b2ac73ec5f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2163.jpg,Mixed,TN-2163.jpg,2
+684efcb299d776581f51a39a27a3064b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2412.jpg,Hail damage,TN-2412.jpg,1
+9fd6e9a9c24133a73581476766ac28c3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-722.jpg,Root Damage,TN-722.jpg,3
+8ab46413a21cca60353b6d4c59d6bcad,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-100.jpg,Hail damage,TN-100.jpg,1
+f98bbc4c5c754ab3fb831e5fed04f3a4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1538.jpg,Mixed,TN-1538.jpg,2
+94ebedfcdd0d2ed42e1c1e7694c11d9f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-747.jpg,Hail damage,TN-747.jpg,1
+d03c91ec4b9730bcbaaad434322560b2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-311.jpg,Cotton Bollworm Infestation,TN-311.jpg,0
+56ac03eddba4efb7cd2ca66bdaf12684,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1497.jpg,Hail damage,TN-1497.jpg,1
+0fdc07f70877c9b07cdafbb9248c8592,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2066.jpg,Hail damage,TN-2066.jpg,1
+91b3205cd1ad10fc5cb187b338d886c1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-1025.jpg,Cotton Bollworm Infestation,TN-1025.jpg,0
+2577f61d55f6636cd72d0586dd796090,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1317.jpg,Hail damage,TN-1317.jpg,1
+e2e70e130dc824271f52655703c543dc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-550.jpg,Mixed,TN-550.jpg,2
+da962edd946e7eca186fefb896f7c6d3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-10.jpg,Hail damage,TN-10.jpg,1
+662082ad0f8fe4b56d8ab046e6aa14c4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2291.jpg,Hail damage,TN-2291.jpg,1
+fd4be0aec2bfc9f6741fa7180e0f08f2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-24.jpg,Mixed,TN-24.jpg,2
+2d4c731c464019be3f6829348e195d6a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-444.jpg,Root Damage,TN-444.jpg,3
+68c1cd9576644fe30203c82e8a8399c1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-383.jpg,Mixed,TN-383.jpg,2
+c60f8ddb5eb0a1bf51e20f82a5b8c6a8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2159.jpg,Mixed,TN-2159.jpg,2
+1242a5e0c2e60fe0113b143468fcdee1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-805.jpg,Hail damage,TN-805.jpg,1
+30255ba4b56425b035fd2ee60b8269fb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-796.jpg,Cotton Bollworm Infestation,TN-796.jpg,0
+53ee7591091951be3d73678bd65de4d9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2247.jpg,Hail damage,TN-2247.jpg,1
+8b732db508220562abaac2a3eb7b3025,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-300.jpg,Root Damage,TN-300.jpg,3
+009d5f2d151c770d5d13265197c15868,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-752.jpg,Hail damage,TN-752.jpg,1
+cff054b0e6f76ff3bd59c1c0930d1fb4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-588.jpg,Strong-Light Burn,TN-588.jpg,4
+dfa97bfb14f712efd4b11c8f53b17701,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-495.jpg,Root Damage,TN-495.jpg,3
+25c52f94e312e41487725a8fff21a95b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-627.jpg,Root Damage,TN-627.jpg,3
+1a8ebcc7219af36916570d5c6493f2b8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-498.jpg,Hail damage,TN-498.jpg,1
+556443349407bf6d9c5477dc26342e10,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-187.jpg,Root Damage,TN-187.jpg,3
+94ce8e97c4d336e1ba235d3d5aa5e70a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-738.jpg,Hail damage,TN-738.jpg,1
+e44a95df34dd95af206d2abc5dda9ff4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-681.jpg,Strong-Light Burn,TN-681.jpg,4
+3af23f5a3fb556fc8c071518b1f20a42,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2329.jpg,Hail damage,TN-2329.jpg,1
+c4f0125220f55d981354d140f486abf2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-564.jpg,Strong-Light Burn,TN-564.jpg,4
+c61dc142c84077ead5ce79231134d12a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-152.jpg,Cotton Bollworm Infestation,TN-152.jpg,0
+9c4a358dd4d6e8498394031865fb70bd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-170.jpg,Root Damage,TN-170.jpg,3
+3b8c7404e4d4acdbea46c826dcb54742,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1898.jpg,Mixed,TN-1898.jpg,2
+56f082ee04e6fd5b51c87308b3f4248e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2578.jpg,Hail damage,TN-2578.jpg,1
+c3c0f92aae0a1907de77d97892348f80,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-633.jpg,Cotton Bollworm Infestation,TN-633.jpg,0
+15be1a1887322af6941fcdf7af7f2de4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-584.jpg,Mixed,TN-584.jpg,2
+9ffa34ea60d90841d9df754d7d1851f4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-632.jpg,Hail damage,TN-632.jpg,1
+28697fcf22b4e6644c3d67ee3bf72b39,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-223.jpg,Mixed,TN-223.jpg,2
+7e6443eed09999b5355b1a2530aacaaf,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-301.jpg,Mixed,TN-301.jpg,2
+1f60b7c40b1928926997d58b13ce742b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1768.jpg,Mixed,TN-1768.jpg,2
+a884507872685cd435d4d76df68d091b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1125.jpg,Mixed,TN-1125.jpg,2
+245541e7d4c684bca0a9148ee8aa1c47,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1514.jpg,Mixed,TN-1514.jpg,2
+933a555d21fdeb691a8a6abff202a5b8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2260.jpg,Hail damage,TN-2260.jpg,1
+202ea5d73605b8d324224a0d708bd02e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-108.jpg,Hail damage,TN-108.jpg,1
+3159f9e0d86a7026a76e02f04e1a4df8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-401.jpg,Hail damage,TN-401.jpg,1
+a155ce46ea1b1d47ef987ce98637c7b5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2707.jpg,Hail damage,TN-2707.jpg,1
+c3f8b8bd6bd4b596d03f298387064479,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-182.jpg,Mixed,TN-182.jpg,2
+0ff321ee4527f38c5533185c0cc8a715,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-93.jpg,Mixed,TN-93.jpg,2
+f3b0b394a269d8ef887e6064cdf683c2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1856.jpg,Hail damage,TN-1856.jpg,1
+547d4f6f77e76984461ceaea6aea6840,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1545.jpg,Hail damage,TN-1545.jpg,1
+73226330a2d6874da2169a6e6a9151e3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2728.jpg,Hail damage,TN-2728.jpg,1
+aa9c99c98eba2a7396092383955a26c4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1290.jpg,Hail damage,TN-1290.jpg,1
+93f874139d27d77f7c1082b82d8a758d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-553.jpg,Mixed,TN-553.jpg,2
+9286cfa34cb3fb388fe80816a27d9892,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-680.jpg,Mixed,TN-680.jpg,2
+ede141350596b9bdff245d866753ec27,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-304.jpg,Root Damage,TN-304.jpg,3
+25771328aee6da559b5f827f991a1bcd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1908.jpg,Mixed,TN-1908.jpg,2
+f0e5644a9c62acb93285ac397cf1b34c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-877.jpg,Hail damage,TN-877.jpg,1
+32d5b4fc92ce89de113ddb50ed73683c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1777.jpg,Mixed,TN-1777.jpg,2
+e2cfc632774871f0cd708fe069c03a1b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-840.jpg,Cotton Bollworm Infestation,TN-840.jpg,0
+2a7d3d3a7734bdaf7b36ec1cbd2bb669,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-605.jpg,Strong-Light Burn,TN-605.jpg,4
+157d02442f105886132fb9fcfbbf0506,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-118.jpg,Mixed,TN-118.jpg,2
+db553b1d960d64684724615d6de112ff,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-491.jpg,Strong-Light Burn,TN-491.jpg,4
+b824f5fbbc8ce20edf3827c9c80ec149,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-94.jpg,Root Damage,TN-94.jpg,3
+de6beb4abe51a71e6c7a3f3ac5229b78,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2606.jpg,Hail damage,TN-2606.jpg,1
+307c1fa14973025b2241b328dd098d8e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1529.jpg,Mixed,TN-1529.jpg,2
+3bc02c40140a81e0de7ad7f45e5e34ea,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1719.jpg,Hail damage,TN-1719.jpg,1
+be0c2438541c82b9d9465dbf9a40d2fe,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-589.jpg,Strong-Light Burn,TN-589.jpg,4
+cb9d998ee53b18b4f4b5da2eb46eeb01,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1748.jpg,Hail damage,TN-1748.jpg,1
+9f4d5b1da4001f15e2af4c9d90c32017,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-190.jpg,Mixed,TN-190.jpg,2
+7f081cdaff252cf1afdde43316885da4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-139.jpg,Root Damage,TN-139.jpg,3
+270ff5aaab21a463f406ff15ee958d82,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-180.jpg,Cotton Bollworm Infestation,TN-180.jpg,0
+5e27fdf7f15bdaaceab94e940aabf71a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2185.jpg,Mixed,TN-2185.jpg,2
+50fb5bb9aee8b8aa3499314869caa69d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-632.jpg,Cotton Bollworm Infestation,TN-632.jpg,0
+ed3930a9a586d02d7f860c5343a6ed2d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-133.jpg,Hail damage,TN-133.jpg,1
+9273d49b03d24a1b80d5d2d7c43efd42,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1055.jpg,Mixed,TN-1055.jpg,2
+85c673081065135918c45211151acf24,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-46.jpg,Mixed,TN-46.jpg,2
+df91fd4352f2bb528df6b9803a3eb88b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-816.jpg,Mixed,TN-816.jpg,2
+6c671a35b4d1edf4c5acbc061ec18c06,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-556.jpg,Cotton Bollworm Infestation,TN-556.jpg,0
+fd27fa8b91dbbf389e8e1410d7bd86b1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2184.jpg,Mixed,TN-2184.jpg,2
+854acb435d165f44375d4e97f63e951f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2231.jpg,Mixed,TN-2231.jpg,2
+5033dc73e2707af7b0cf214f8aa2ca6d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1757.jpg,Hail damage,TN-1757.jpg,1
+65fc8c4c00c3adbf0a4760fe2c01a65e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-918.jpg,Cotton Bollworm Infestation,TN-918.jpg,0
+aceaae5d619e6aa5cc299cd7d634f4cb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-517.jpg,Hail damage,TN-517.jpg,1
+534c5b3ec11fa1e75b3d6fa9372343f9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-294.jpg,Strong-Light Burn,TN-294.jpg,4
+9137bc08e31fffde56094bc0de1adf8c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-363.jpg,Strong-Light Burn,TN-363.jpg,4
+7e2ea5250b13df5467140737b3a6d11f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2631.jpg,Hail damage,TN-2631.jpg,1
+9c0aa155d76b6b521615f735929ac727,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2471.jpg,Hail damage,TN-2471.jpg,1
+74e6c2269c6910a8285e585b648f3905,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-279.jpg,Hail damage,TN-279.jpg,1
+cc7e2d2dd2b9195ab7b53f95bf03b12f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-376.jpg,Mixed,TN-376.jpg,2
+d63f907aaccdafc45c38422d6697561e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1709.jpg,Hail damage,TN-1709.jpg,1
+bea3cca1630cde6e49f0dbbf00e4c70f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-671.jpg,Cotton Bollworm Infestation,TN-671.jpg,0
+8ee6d3aa51cb66efa6ae93e5f6d25fe4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-396.jpg,Strong-Light Burn,TN-396.jpg,4
+c044228a2f0ec0a15f91b396f47dce4e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1206.jpg,Mixed,TN-1206.jpg,2
+3661eec723600bb12f4c86eb59aa6e6a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1727.jpg,Hail damage,TN-1727.jpg,1
+089cccdd08bcbc827fdf3db621d668a5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-661.jpg,Mixed,TN-661.jpg,2
+e1a2e297ef4e8519fb7b8ebc891708ff,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-685.jpg,Hail damage,TN-685.jpg,1
+7f6514c0bac71559519f5ce8ea1eef3e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-410.jpg,Hail damage,TN-410.jpg,1
+d58f479c8ad0c15333b32464bff3dc6d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-537.jpg,Mixed,TN-537.jpg,2
+f38f93b9663bb3bacc8d64019f6742f6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-575.jpg,Hail damage,TN-575.jpg,1
+292c119542c738d89e5f88650722ef76,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-31.jpg,Root Damage,TN-31.jpg,3
+5d3903982b4dc972ebe77e554b6593ba,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2676.jpg,Hail damage,TN-2676.jpg,1
+d9e6589215922c1a82903bcc9e725498,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2696.jpg,Hail damage,TN-2696.jpg,1
+e1b43a6e6a34ea2cff330712105db707,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1662.jpg,Mixed,TN-1662.jpg,2
+3af78ed739d676641daeab35642d9625,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-388.jpg,Hail damage,TN-388.jpg,1
+62838ca2bb961ab0616e1cdaa02dbe52,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1095.jpg,Hail damage,TN-1095.jpg,1
+9b7888e36c455999b6c81bab1d090d17,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-401.jpg,Cotton Bollworm Infestation,TN-401.jpg,0
+088f9dc50af02c49731111ca3e6e940f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2127.jpg,Mixed,TN-2127.jpg,2
+8ce58931612be07e844159a8cc1c524c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1096.jpg,Hail damage,TN-1096.jpg,1
+62b43e365e8369b41db35533abbb9b47,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2364.jpg,Mixed,TN-2364.jpg,2
+01829d8c90938204beb2f4b8e90c02d6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-650.jpg,Hail damage,TN-650.jpg,1
+134ae65881df526c185da7bebb8b5689,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-245.jpg,Root Damage,TN-245.jpg,3
+59b89e31adf3148cbc3689b2d13fdccd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-528.jpg,Hail damage,TN-528.jpg,1
+2f9f4249b4b5fd41e45d41be0bbd6bc1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-528.jpg,Root Damage,TN-528.jpg,3
+9e1eaf894fde3bf8f1de1a5c2bc15fb1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-753.jpg,Cotton Bollworm Infestation,TN-753.jpg,0
+c5f5608fd638fc2cdc00d1ac1f61112b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-376.jpg,Cotton Bollworm Infestation,TN-376.jpg,0
+2d114c918ff1bdfeeea9cb9c21b91837,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1788.jpg,Mixed,TN-1788.jpg,2
+9c2ac215227cdac2ea1ffce3516d9d22,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-201.jpg,Cotton Bollworm Infestation,TN-201.jpg,0
+b3e75bf6d26467243eb3fdae517fdfe8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-1005.jpg,Cotton Bollworm Infestation,TN-1005.jpg,0
+8cddb2e3cc28bc07fbf26a7fcc5779cf,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1467.jpg,Mixed,TN-1467.jpg,2
+1f2d56f1b9ad16680193afd2e9219b1e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1612.jpg,Mixed,TN-1612.jpg,2
+a96aa367f527841cdd4bf0014317789e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2748.jpg,Hail damage,TN-2748.jpg,1
+7be2d1b858f640427ad01b82a151f223,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-414.jpg,Root Damage,TN-414.jpg,3
+06f7ebec4c8197755f15fd07c855c812,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-513.jpg,Root Damage,TN-513.jpg,3
+9bc98bac5a89cacc139eb63e57b126ed,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-494.jpg,Strong-Light Burn,TN-494.jpg,4
+e58ada6a7debd4f09961c2169a9502bf,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-836.jpg,Root Damage,TN-836.jpg,3
+ca4e198eaae64527b377f5f69c8ca415,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-335.jpg,Cotton Bollworm Infestation,TN-335.jpg,0
+bf6d8278d91dab9f4c3e9792bd6e1e2c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-252.jpg,Hail damage,TN-252.jpg,1
+4f629680fe7733596b6f56196caccff2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1252.jpg,Mixed,TN-1252.jpg,2
+0d8a874c902b9d338c2750dffaa61cba,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1216.jpg,Hail damage,TN-1216.jpg,1
+08e78d8de52d8b8afcf3ee0204a95012,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-568.jpg,Strong-Light Burn,TN-568.jpg,4
+302dfbaab8f0ea704d278120915297a4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2290.jpg,Mixed,TN-2290.jpg,2
+262a148a7ffd93a23cf0952edce0eb2c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2082.jpg,Mixed,TN-2082.jpg,2
+68671ae5d1961a664e6c6aa38b5322ff,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-29.jpg,Root Damage,TN-29.jpg,3
+1cb103402045138815c3070ef63bbc9b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-38.jpg,Mixed,TN-38.jpg,2
+34b6a62dc1eea5c30a66c42c1e7acd50,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1890.jpg,Hail damage,TN-1890.jpg,1
+51870227b6f12f84b50b7e6403c14fab,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-551.jpg,Root Damage,TN-551.jpg,3
+4b458e7a79c0db4f5ddac463b470f5ba,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1042.jpg,Mixed,TN-1042.jpg,2
+40d87255a3b48dc3e942c39842bb09f4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-617.jpg,Cotton Bollworm Infestation,TN-617.jpg,0
+db64da65e3c9042405e857d1aedadd5d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-425.jpg,Strong-Light Burn,TN-425.jpg,4
+ae01d07ca8e51e13c64735193d886b5c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-899.jpg,Hail damage,TN-899.jpg,1
+52c607a9e1ff7dfe0ac3ca6e6f026270,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-742.jpg,Root Damage,TN-742.jpg,3
+9f180b13cfdfc7c7af633ab63e0c5dfd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-619.jpg,Cotton Bollworm Infestation,TN-619.jpg,0
+979f93686de7bafdeb61abae0f0e445d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-598.jpg,Hail damage,TN-598.jpg,1
+1aa8a02ecfe7d33c544147b60fa08d59,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-105.jpg,Hail damage,TN-105.jpg,1
+2e3eefcf71617d600f65fef183251c61,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2135.jpg,Hail damage,TN-2135.jpg,1
+013368a3b7a8c69b4f33262f2da84ab2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-254.jpg,Cotton Bollworm Infestation,TN-254.jpg,0
+7091d11b0c785a21fe542e9ecf091294,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2869.jpg,Hail damage,TN-2869.jpg,1
+6529a773a6a6e00f83f1593f30c740bd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-124.jpg,Mixed,TN-124.jpg,2
+54dbebaa7d5051ef3a8d2b9dcb307131,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2089.jpg,Hail damage,TN-2089.jpg,1
+5df0e27dbcbe5ec12f3e3c58db63bcea,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2375.jpg,Mixed,TN-2375.jpg,2
+d21db1053f5171c5f68411b86b4778ae,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2374.jpg,Hail damage,TN-2374.jpg,1
+aecd03b5edf20ebc95bf7d1c41c77988,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1280.jpg,Hail damage,TN-1280.jpg,1
+8d98a2b30f89476d8ce538e48bc53447,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-149.jpg,Mixed,TN-149.jpg,2
+fd344b0d4873d7162d9c8371db26c042,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-533.jpg,Hail damage,TN-533.jpg,1
+ee801f2931d17a515b22fb1879055a76,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-840.jpg,Hail damage,TN-840.jpg,1
+39fbf684601e46c6ecd6646fb25a00e2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2042.jpg,Mixed,TN-2042.jpg,2
+31658cc141cd6f90d2362124e05cb9a4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-794.jpg,Mixed,TN-794.jpg,2
+5008b643f71176c4beb715e5e65eb69b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2256.jpg,Mixed,TN-2256.jpg,2
+412a9d7d80f117eaa7304d88e265675a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-640.jpg,Cotton Bollworm Infestation,TN-640.jpg,0
+0c66807aa254317a9e7d1b4b40c90c87,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-257.jpg,Cotton Bollworm Infestation,TN-257.jpg,0
+e66166f68bf16744b3c1d836e0198608,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-880.jpg,Mixed,TN-880.jpg,2
+e11affbb427d92bc9508e46f6954e086,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1650.jpg,Mixed,TN-1650.jpg,2
+3a5ed6b065f7c20870b8fdfcde1739f5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-213.jpg,Cotton Bollworm Infestation,TN-213.jpg,0
+1ea9a5f399d1154b211465e798fac27f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-737.jpg,Hail damage,TN-737.jpg,1
+f222cc436c75523366ab149dd571cee3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2392.jpg,Mixed,TN-2392.jpg,2
+a222a5b73a716e533839733972e5dd70,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2576.jpg,Hail damage,TN-2576.jpg,1
+b128f73becce7b3d87b367d084da0c73,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-556.jpg,Mixed,TN-556.jpg,2
+8e5e16611dbed61dde618e28b2b8f590,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-335.jpg,Root Damage,TN-335.jpg,3
+c9792402604e13946ff0ba4152e34022,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-698.jpg,Hail damage,TN-698.jpg,1
+619d205a90296a2e0ed1973e283f9082,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1287.jpg,Hail damage,TN-1287.jpg,1
+a7b7108ed339cc0612869b5b2f93d784,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-42.jpg,Mixed,TN-42.jpg,2
+bffed701401844a3e38a3f1c9cfa46ef,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-565.jpg,Hail damage,TN-565.jpg,1
+ad7fd3cc0a69d5bf43fccbe605dc2bdc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1344.jpg,Mixed,TN-1344.jpg,2
+77552dcad5679ae7713a9d04a6df200e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-465.jpg,Strong-Light Burn,TN-465.jpg,4
+7326e32301a5694d65460018407af81b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Strong-Light Burn/TN-270.jpg,Strong-Light Burn,TN-270.jpg,4
+ffa2803fd95934dc324035cd9a3fe82c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2267.jpg,Hail damage,TN-2267.jpg,1
+60d39f8e53c627c1dbe227a4b574b94e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2889.jpg,Hail damage,TN-2889.jpg,1
+99cc489da6ba9ffec17028851e793aee,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2856.jpg,Hail damage,TN-2856.jpg,1
+b564359ea336216284412d1ae26fc0ea,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2274.jpg,Hail damage,TN-2274.jpg,1
+d854128f9e18f335f874a0174215fdab,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-492.jpg,Hail damage,TN-492.jpg,1
+5170884ea0c5b52d7147291a12298a4a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-631.jpg,Cotton Bollworm Infestation,TN-631.jpg,0
+dd6536f89c740e26d65bbe418c3579f4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-722.jpg,Cotton Bollworm Infestation,TN-722.jpg,0
+3dd0388e64f8efcf913a80ffd1dc11d4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Root Damage/TN-110.jpg,Root Damage,TN-110.jpg,3
+35a78bc6c591e9b0db18e8aea2431543,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-165.jpg,Strong-Light Burn,TN-165.jpg,4
+f9efc271b52e272452f61f75995267d1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-774.jpg,Mixed,TN-774.jpg,2
+fdbca3720ed57523ca1676b410c47601,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-916.jpg,Hail damage,TN-916.jpg,1
+a1b89d88894064c1e8820b6ab11cf975,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2340.jpg,Mixed,TN-2340.jpg,2
+394d3132056ed1492786b16a8d6606e4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-409.jpg,Hail damage,TN-409.jpg,1
+7cfa2c7d9bae542dc6674f70e99c8603,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-567.jpg,Strong-Light Burn,TN-567.jpg,4
+5fc2692eafd67230950fe7d271d366b6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1505.jpg,Mixed,TN-1505.jpg,2
+e367e3aecc0064704a391a80e3a937fd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-148.jpg,Hail damage,TN-148.jpg,1
+f8dd7dfade8351036c9ef91b271e4b97,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-40.jpg,Mixed,TN-40.jpg,2
+55d29890e4ae50adad1a451356603822,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-861.jpg,Mixed,TN-861.jpg,2
+dcce95ced368d12b5953ae8f4b197ed4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-669.jpg,Root Damage,TN-669.jpg,3
+9806111cda021f5330bf774a20fa5786,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-603.jpg,Root Damage,TN-603.jpg,3
+5145dae215a9da87b3a6901c18d6b2fd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-453.jpg,Root Damage,TN-453.jpg,3
+9df5419643d7cffaaa2d035c15650ce0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-300.jpg,Hail damage,TN-300.jpg,1
+263dca9b470b5bcf2afc957acb99ec15,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-730.jpg,Hail damage,TN-730.jpg,1
+49f03b34301d13bec47e035dc84c8710,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-778.jpg,Hail damage,TN-778.jpg,1
+ae6440f72e3a9506a50b079d93d125bc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-683.jpg,Cotton Bollworm Infestation,TN-683.jpg,0
+9d105a4f6018307c24ae2352c2cf3f10,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2039.jpg,Hail damage,TN-2039.jpg,1
+3a75ab2b670863e643834fe46f2ad0ea,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-226.jpg,Cotton Bollworm Infestation,TN-226.jpg,0
+400245d01a0d90b5ca16a333e734194c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-123.jpg,Cotton Bollworm Infestation,TN-123.jpg,0
+8fbc84fe942a57add3cbad9b02d4ffb9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-463.jpg,Cotton Bollworm Infestation,TN-463.jpg,0
+3f7ed6c6b8e898db6c94c11763f6d652,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-778.jpg,Hail damage,TN-778.jpg,1
+28e944d2c122ef33d46538cebebf6a94,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-758.jpg,Hail damage,TN-758.jpg,1
+9aef623c237b88c589ed70179f06955a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-587.jpg,Cotton Bollworm Infestation,TN-587.jpg,0
+4aa46beebdbc9135301e7dfc99d04599,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-317.jpg,Hail damage,TN-317.jpg,1
+9a5a39ce3e4159500b5eb436d68ca144,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2410.jpg,Mixed,TN-2410.jpg,2
+078a5e2716314fba129ff5d5e49aebfa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-999.jpg,Hail damage,TN-999.jpg,1
+c642faea3af4eaef782d47d9afd5f6c5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-321.jpg,Cotton Bollworm Infestation,TN-321.jpg,0
+0e4401b975d69ad97fc42f75ecb4bf5c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-569.jpg,Mixed,TN-569.jpg,2
+0ac44d0a3f6bd325724017fcb43a3fbf,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-726.jpg,Mixed,TN-726.jpg,2
+5b79a0e762296e1fd6e14f56bd6ead19,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1880.jpg,Hail damage,TN-1880.jpg,1
+a1790b5881236de780dcc62a9457a159,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1965.jpg,Hail damage,TN-1965.jpg,1
+02c4770fc6ad0b0d071968bdbf4cece2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2577.jpg,Hail damage,TN-2577.jpg,1
+d107f7c5f233aec4aa8d4daf32fab5d2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2330.jpg,Hail damage,TN-2330.jpg,1
+61456d641a54985b4ff35e951efb4112,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2377.jpg,Mixed,TN-2377.jpg,2
+dfde90545aedd607f64ede59f40d930c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-282.jpg,Mixed,TN-282.jpg,2
+e0156c77750b81c07b81919f8a31c6a2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1977.jpg,Hail damage,TN-1977.jpg,1
+b36964a5bfad01a03b229d476ea8b0b7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-381.jpg,Root Damage,TN-381.jpg,3
+bc3f79475173decd778d0bb753a74176,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-821.jpg,Mixed,TN-821.jpg,2
+1118233287788bfa1cc82f01dfe9623a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1875.jpg,Hail damage,TN-1875.jpg,1
+18edafd21b96b955753843e0f50b6e54,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-224.jpg,Root Damage,TN-224.jpg,3
+3c59d9c6cb1bd47936cb51f463e4c705,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-404.jpg,Strong-Light Burn,TN-404.jpg,4
+fbf6b68ba08f0936af2cf79b121efdeb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-670.jpg,Hail damage,TN-670.jpg,1
+302202df7068cb9b2abc0b52e686ea8b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1481.jpg,Mixed,TN-1481.jpg,2
+69b785dbb3c1d84b2573c58b9f3743b4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-124.jpg,Root Damage,TN-124.jpg,3
+01979e5a82729f053da5e5e829b5923d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-587.jpg,Strong-Light Burn,TN-587.jpg,4
+e2bb9a2a96c6cfc9d889f3d27002271d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-689.jpg,Cotton Bollworm Infestation,TN-689.jpg,0
+cac501958aa10a4226b9fdc32d676850,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-859.jpg,Mixed,TN-859.jpg,2
+359d1422bfeced884e9034b124286a89,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Cotton Bollworm Infestation/TN-370.jpg,Cotton Bollworm Infestation,TN-370.jpg,0
+99fef252a6334b719415051b9dfac963,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-269.jpg,Strong-Light Burn,TN-269.jpg,4
+b6ab4a5561e3511f4fdeb35905711dc3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1631.jpg,Mixed,TN-1631.jpg,2
+48b59fd3334c43df7b7ddda0308a1113,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-496.jpg,Mixed,TN-496.jpg,2
+c92ded176d4f90cfd7650c5708a10add,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1440.jpg,Hail damage,TN-1440.jpg,1
+bbd9534b48c3b1d8f2f4826456e79b39,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-488.jpg,Hail damage,TN-488.jpg,1
+d5dd13939ba7e26c3768eb686a602016,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1326.jpg,Mixed,TN-1326.jpg,2
+d1e7bd2fb3c3c1621990ff9624df06a3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1099.jpg,Hail damage,TN-1099.jpg,1
+641a2f00523855fb974b0840d325589f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2147.jpg,Mixed,TN-2147.jpg,2
+3b5fa3a6ac1529ac807edbe37dcf1e78,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-568.jpg,Hail damage,TN-568.jpg,1
+b4385e14f7550b0fc5b731bfa85d76d3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1289.jpg,Mixed,TN-1289.jpg,2
+557b47db45ddd9025b276fc1c8331130,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1292.jpg,Mixed,TN-1292.jpg,2
+72eb31e456c4aed015e4cf8f5a43cfdd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-544.jpg,Cotton Bollworm Infestation,TN-544.jpg,0
+7b9cbabd63373a6d5bb9204601021c57,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-51.jpg,Mixed,TN-51.jpg,2
+e48c033d9515ced05f1d0c58dfe61c78,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-517.jpg,Mixed,TN-517.jpg,2
+6c7fa3c4d92f340b5472a841e81724be,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-229.jpg,Root Damage,TN-229.jpg,3
+6ca5e729f52488cae03f6d34024942b7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1330.jpg,Hail damage,TN-1330.jpg,1
+a03adb3d473b09e230e839ca4c03c019,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-155.jpg,Strong-Light Burn,TN-155.jpg,4
+2361d99927f46771ce00d85de2bbbd39,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-746.jpg,Hail damage,TN-746.jpg,1
+2a393dd6fc30ae2b86c9a8fb89530f52,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-835.jpg,Hail damage,TN-835.jpg,1
+5e2ad8937d94c02c41449915b938db83,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1549.jpg,Hail damage,TN-1549.jpg,1
+58b93b3e53a8ab97dc1b9757f5bb3e39,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1311.jpg,Mixed,TN-1311.jpg,2
+3a0b9754c6502f139d8f5ad24197c21c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-666.jpg,Hail damage,TN-666.jpg,1
+1049dbd533664cd2084ba1a9fe4fb207,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-280.jpg,Mixed,TN-280.jpg,2
+1333126221ed781a45c599d474154934,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1428.jpg,Mixed,TN-1428.jpg,2
+d01092ca9d63bbfd01cdd4ec3c1135cb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-549.jpg,Root Damage,TN-549.jpg,3
+9c4d3ae6c24a137562748647dc12e87f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-170.jpg,Cotton Bollworm Infestation,TN-170.jpg,0
+e08b151df698fcf47b3eeb5e796fa3c8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-367.jpg,Root Damage,TN-367.jpg,3
+bd70b8b657ec667bf7ee1299d1ec0955,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1519.jpg,Hail damage,TN-1519.jpg,1
+7f3cf718953cb3da4c38b93577e44a0e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-15.jpg,Strong-Light Burn,TN-15.jpg,4
+1da87cf46984355f5787a31a72b7655f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Root Damage/TN-414.jpg,Root Damage,TN-414.jpg,3
+563462ea94d42f9f6cc7b5d8eaac29c2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-302.jpg,Mixed,TN-302.jpg,2
+ea82557bdca461db459cf3c82b93d244,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-715.jpg,Root Damage,TN-715.jpg,3
+42e99e7e8044427680fec5e0a6491e64,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-189.jpg,Cotton Bollworm Infestation,TN-189.jpg,0
+94ce53aa05a24ac0cf5871f8936d239f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1835.jpg,Hail damage,TN-1835.jpg,1
+2660f8b7dd5e24b618a048a0d5ef7fbe,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2489.jpg,Hail damage,TN-2489.jpg,1
+9c1a8211ff566495d9b6e818616ba26b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-590.jpg,Hail damage,TN-590.jpg,1
+a269c9253d7efa6b5b64df14b9d451b9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1336.jpg,Hail damage,TN-1336.jpg,1
+b6c17ad12cc5f77201ff22d4313e5670,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2445.jpg,Hail damage,TN-2445.jpg,1
+9ecd57bb2bf96ce42efb96070567f8fd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-420.jpg,Hail damage,TN-420.jpg,1
+ea976932c4af7a2175d12b8480272c88,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1260.jpg,Hail damage,TN-1260.jpg,1
+1387376ccb8f73e1416ceecde99bad5f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-478.jpg,Mixed,TN-478.jpg,2
+61e8c2767058f8845da88f1958df79de,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-631.jpg,Mixed,TN-631.jpg,2
+57a15bf5c933ccce72b83e1b27259331,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-708.jpg,Root Damage,TN-708.jpg,3
+5ff4f1cdb4654442fadc4203fe3da016,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-490.jpg,Root Damage,TN-490.jpg,3
+28f4720a1009613274fd1797e2b141c6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-159.jpg,Mixed,TN-159.jpg,2
+1702a272d349e71bcb8d3e5beab41404,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-42.jpg,Mixed,TN-42.jpg,2
+cba5d684d8dc9379e4d45840229e2cb1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1495.jpg,Mixed,TN-1495.jpg,2
+59cc16e11bbde5dec0e89edc9889dd04,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-910.jpg,Mixed,TN-910.jpg,2
+c86525d5a1fe92286c206847407b1316,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Root Damage/TN-64.jpg,Root Damage,TN-64.jpg,3
+342ff925b991b52725e89d7ff485c096,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-16.jpg,Cotton Bollworm Infestation,TN-16.jpg,0
+77a42632d8a4e2906e2a9578a9c8f3b0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-504.jpg,Mixed,TN-504.jpg,2
+34b185c9598843b55a6b8e9e7660b994,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-160.jpg,Hail damage,TN-160.jpg,1
+72cc6cacdfe1ba889669d7f3345fff65,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-636.jpg,Strong-Light Burn,TN-636.jpg,4
+dcc3e5d68d8cd5ad71489a93f3d84002,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-542.jpg,Root Damage,TN-542.jpg,3
+604ce9183e0c14b3e9edd03b3abed498,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2482.jpg,Hail damage,TN-2482.jpg,1
+fc5f019daf73c1f6ecead53dbad5c199,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1425.jpg,Mixed,TN-1425.jpg,2
+9f57efb93e508230a2ba8bf96c660248,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1596.jpg,Hail damage,TN-1596.jpg,1
+683c00df36599d5cfee9f03a61483462,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-172.jpg,Hail damage,TN-172.jpg,1
+d3b85fd0f61bb4568fe3177381a40059,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2095.jpg,Hail damage,TN-2095.jpg,1
+acb5aef6ebdbb24745285d5421d9e4eb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2565.jpg,Hail damage,TN-2565.jpg,1
+c70a51c69f92cb8ac049de44ac6ab16b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-571.jpg,Hail damage,TN-571.jpg,1
+13f4fa47fed68b512f0d957dd938cd17,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-108.jpg,Mixed,TN-108.jpg,2
+3e62ea48418b4415e2963bb3f7a0e309,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2219.jpg,Mixed,TN-2219.jpg,2
+357a132cbc51c79a484699213b7ac7d4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2017.jpg,Hail damage,TN-2017.jpg,1
+13b7664becc0084d97670c1dd4fab561,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-295.jpg,Strong-Light Burn,TN-295.jpg,4
+86ff511ed1e52ab9bbd390b5715c5b29,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-184.jpg,Hail damage,TN-184.jpg,1
+d861d68751aeebc51c1fd37398be4703,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1603.jpg,Mixed,TN-1603.jpg,2
+6d38314d4cf607034a5d914f0d782945,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-124.jpg,Strong-Light Burn,TN-124.jpg,4
+ae3d7c8c39a6bc9aaffb289fbce49357,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-979.jpg,Hail damage,TN-979.jpg,1
+25a11df7a48c4668d63031cc613e5d5a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-397.jpg,Mixed,TN-397.jpg,2
+996be5fb06ac26d3a95f52d9e553e1d9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2394.jpg,Hail damage,TN-2394.jpg,1
+782af69cd0e3d66fc5b3e324ed4d4082,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-166.jpg,Cotton Bollworm Infestation,TN-166.jpg,0
+7762f3c0cdb27f1f6fc1f30d662d3dbd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-216.jpg,Cotton Bollworm Infestation,TN-216.jpg,0
+a21b4ba77b0756fc3ca04d2ef02ee380,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-636.jpg,Hail damage,TN-636.jpg,1
+f39e4c97b55b7d2349fedac50b89b719,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-217.jpg,Cotton Bollworm Infestation,TN-217.jpg,0
+38267ce1d105e67c004af573a755e8c7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2280.jpg,Mixed,TN-2280.jpg,2
+d706345f71ba1a7714bbc8f9838a6a6f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2486.jpg,Hail damage,TN-2486.jpg,1
+fecccd849c3fdf0d2eaa509d99c3e003,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1365.jpg,Hail damage,TN-1365.jpg,1
+1ca62b06f1ad5e2d96767018cbd3a557,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1206.jpg,Hail damage,TN-1206.jpg,1
+15f43254d55f22231f2bff57a6fb3da7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-733.jpg,Hail damage,TN-733.jpg,1
+8a2ca428b077a529e427d3cd5dc41320,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-108.jpg,Root Damage,TN-108.jpg,3
+2d73032e3040862ed699dae4ba4da003,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2679.jpg,Hail damage,TN-2679.jpg,1
+b7b6ae4f1dbb79941767ae9ae4255307,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-325.jpg,Hail damage,TN-325.jpg,1
+5b3b0f23ae593a3e81e4dfc1921a55f6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-890.jpg,Cotton Bollworm Infestation,TN-890.jpg,0
+ece12d7199dbfb7668388cfbc1978ed5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-831.jpg,Cotton Bollworm Infestation,TN-831.jpg,0
+7602bf846c0dafce77ed95e3f30a2135,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1605.jpg,Hail damage,TN-1605.jpg,1
+432431c213a0286a4ef4aba42a99bff6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-190.jpg,Cotton Bollworm Infestation,TN-190.jpg,0
+011d5186dc5d6db4735169feb858094b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-506.jpg,Strong-Light Burn,TN-506.jpg,4
+093e7e9b3cc4f8fc4a9afe33d2f71c4d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1249.jpg,Mixed,TN-1249.jpg,2
+3354ba34a1be8033abeaf587c39ecb90,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1564.jpg,Mixed,TN-1564.jpg,2
+e5d20ebae8066ba5cddbd733682856e4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-552.jpg,Strong-Light Burn,TN-552.jpg,4
+f920de3bd79fa69f7da8371ae4a12992,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-501.jpg,Mixed,TN-501.jpg,2
+0111c58e0546eee649d324411d897350,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-314.jpg,Strong-Light Burn,TN-314.jpg,4
+56cc15f7ce79696cc96298f87fa1f1fd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1226.jpg,Mixed,TN-1226.jpg,2
+6cf3c49e7ec4bda418f13392ac056f85,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2790.jpg,Hail damage,TN-2790.jpg,1
+48e7694dcb12389a0f12021039649924,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1060.jpg,Hail damage,TN-1060.jpg,1
+070a61465e661869fbad61b3be708e7c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-421.jpg,Cotton Bollworm Infestation,TN-421.jpg,0
+7ac4da708e9cc71071e012851bde41e3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2567.jpg,Hail damage,TN-2567.jpg,1
+6828666007b0336e82c1ee68748c5a2a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1214.jpg,Hail damage,TN-1214.jpg,1
+b138a008952410481666d5d848c849ce,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-155.jpg,Root Damage,TN-155.jpg,3
+15688305c96ba9baca23cfafce20687a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1660.jpg,Mixed,TN-1660.jpg,2
+7a2943a0a6d4746cdeac6f1bfdc770f9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-806.jpg,Cotton Bollworm Infestation,TN-806.jpg,0
+68cc11b63410e55ddbb14a74899de526,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-97.jpg,Cotton Bollworm Infestation,TN-97.jpg,0
+b0febe95c595c2bfda5626a2f38ad4fe,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-733.jpg,Root Damage,TN-733.jpg,3
+72612d8d1c1f31c220e2e95a89ff2fac,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-981.jpg,Mixed,TN-981.jpg,2
+d7301ccdeb176af70caa953858dca052,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1503.jpg,Mixed,TN-1503.jpg,2
+f81e8298703b3f848ff2bda1cd635f4a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-667.jpg,Hail damage,TN-667.jpg,1
+d0a7055fc291b54e458e5dad14658d87,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-778.jpg,Mixed,TN-778.jpg,2
+33a9c3e9b91795abee28d432e09bae72,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-830.jpg,Root Damage,TN-830.jpg,3
+de5fcd2037112ed5eb5a6c7fbfe01fd2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-672.jpg,Cotton Bollworm Infestation,TN-672.jpg,0
+bdce56dd352299b4bbd2019f14b5874f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-566.jpg,Hail damage,TN-566.jpg,1
+9fc4880286abd87225dcadd80821cee2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-742.jpg,Mixed,TN-742.jpg,2
+dc57040c256b8b9ee069d5e00297abda,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-540.jpg,Hail damage,TN-540.jpg,1
+74f41a554fcff0f2113dc38cc375d9a3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1547.jpg,Mixed,TN-1547.jpg,2
+fcff89e9e8cf04177f44f76dc133d52a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-684.jpg,Hail damage,TN-684.jpg,1
+fc8b1beef260232ecf7daf3b0130ce04,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1980.jpg,Mixed,TN-1980.jpg,2
+2b06f9c7d13b21dd65992f6e8fd24e96,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-11.jpg,Cotton Bollworm Infestation,TN-11.jpg,0
+b553bbc14db993d96cf767db2814d229,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-84.jpg,Strong-Light Burn,TN-84.jpg,4
+d5c186c900f24ee553408f595785c2c4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-236.jpg,Root Damage,TN-236.jpg,3
+b4145c9e78d8eb18735c5026f36d389e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1873.jpg,Mixed,TN-1873.jpg,2
+1a0f8d6b6716fa4eccbcb868bb820dc1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-228.jpg,Cotton Bollworm Infestation,TN-228.jpg,0
+01adcb4316473c58d884b1031f856fd2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-203.jpg,Mixed,TN-203.jpg,2
+02035dd5827d5057fe6ccdcf6ff21dfc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-520.jpg,Mixed,TN-520.jpg,2
+f1fad82f6e8bcd9ad66ad150c61923dd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2094.jpg,Hail damage,TN-2094.jpg,1
+cbedec31c1140e74454fd9cabf6c53c6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-237.jpg,Strong-Light Burn,TN-237.jpg,4
+2fc9486b5dac640a4b6f0a7e97bdf1a0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1415.jpg,Hail damage,TN-1415.jpg,1
+c603af329144630c738817fec274c557,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2246.jpg,Hail damage,TN-2246.jpg,1
+7b67f162d3e96119e2101eb18317d6d2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-242.jpg,Cotton Bollworm Infestation,TN-242.jpg,0
+baef0b3f11bc3b107663eaf7da2be2a4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-439.jpg,Hail damage,TN-439.jpg,1
+94fb87cb9946b4f80ca29563a6868ec6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2841.jpg,Hail damage,TN-2841.jpg,1
+c73571caf532e7a6f21a4011608b87f3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1030.jpg,Hail damage,TN-1030.jpg,1
+275c24d2515447bb182d55bd94818ceb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-28.jpg,Hail damage,TN-28.jpg,1
+fe99669bc4e020cff01320b6cc0ecfb6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1794.jpg,Mixed,TN-1794.jpg,2
+c7d4ca8d6b72f32068d26c2a2fd68c55,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2459.jpg,Hail damage,TN-2459.jpg,1
+f1d360c7945336bc24ac61a9942ab2c5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Cotton Bollworm Infestation/TN-320.jpg,Cotton Bollworm Infestation,TN-320.jpg,0
+092a9cf8b2deb329681514e6e5f59857,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2954.jpg,Hail damage,TN-2954.jpg,1
+8110a3c6059a8bdc765822d680742453,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-295.jpg,Mixed,TN-295.jpg,2
+f01282c886d09e1249e33c6b5661371c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-520.jpg,Mixed,TN-520.jpg,2
+61e7ea005e0f23a3ec2ec9019f3c0578,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1205.jpg,Mixed,TN-1205.jpg,2
+17407408dff6031bb4c9f9928fde16f5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1445.jpg,Mixed,TN-1445.jpg,2
+141ebf489fb2f4a7d031bd79c9381a8f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-319.jpg,Strong-Light Burn,TN-319.jpg,4
+262f780d0fcc0128799a47c94cce5509,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1636.jpg,Hail damage,TN-1636.jpg,1
+86be512ef3f4e838f64feb713eed87a6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-827.jpg,Hail damage,TN-827.jpg,1
+808ba4dfc7f2f3444725919ea3e31f39,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-178.jpg,Hail damage,TN-178.jpg,1
+4a1dc10471bac220aa203c5d0117b079,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2345.jpg,Hail damage,TN-2345.jpg,1
+86e8d383c962d21fb9ba02c20d88fad4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-119.jpg,Mixed,TN-119.jpg,2
+86e4b3fa436086dd9b84599c275ea5cc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-700.jpg,Root Damage,TN-700.jpg,3
+a4033148f49cdb97abe736e8e3edb096,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-361.jpg,Cotton Bollworm Infestation,TN-361.jpg,0
+973a9fbf8d463742b981a499e699fd4c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1876.jpg,Mixed,TN-1876.jpg,2
+a29b005f5aa16d8faa714daea9a010ba,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2665.jpg,Hail damage,TN-2665.jpg,1
+eb5762e746f77c6fe6b1350a40db4af8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-953.jpg,Mixed,TN-953.jpg,2
+ad5623863bd2f6ebe4b804561515ff73,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-635.jpg,Hail damage,TN-635.jpg,1
+7fa6517a32afc2a8b5ad97e7eb344c4d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-521.jpg,Strong-Light Burn,TN-521.jpg,4
+b51b61e7d81f103fe9d424d277817909,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-361.jpg,Mixed,TN-361.jpg,2
+e623679aeb874aa95ded3f3326008de9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1009.jpg,Hail damage,TN-1009.jpg,1
+3fc5219a5e848fd15e293b4f13708139,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-952.jpg,Cotton Bollworm Infestation,TN-952.jpg,0
+1a13e8f7e65ce46153839ebd11cf5bd9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-110.jpg,Hail damage,TN-110.jpg,1
+66bf98e36fa6ea082b663a402cdcd5d0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-320.jpg,Strong-Light Burn,TN-320.jpg,4
+c4053b117d566dcc1117c4d7d620c6b0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-484.jpg,Strong-Light Burn,TN-484.jpg,4
+ea8cab9c987f6cd045d318aba63224b9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-282.jpg,Cotton Bollworm Infestation,TN-282.jpg,0
+569a759a6f0bc72d91922e79ad0236ca,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-606.jpg,Root Damage,TN-606.jpg,3
+2ff825aceb3b238b200314362edce5cc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2250.jpg,Hail damage,TN-2250.jpg,1
+c8d14634f7ab1858807958c1e37ec866,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2927.jpg,Hail damage,TN-2927.jpg,1
+28383bea3448e6428fe53c0115a2fa45,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Strong-Light Burn/TN-180.jpg,Strong-Light Burn,TN-180.jpg,4
+99024e4750e9744b8e23c5f13826bf1a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-79.jpg,Cotton Bollworm Infestation,TN-79.jpg,0
+53b5f9546c515d42d3c73478f718a93a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-792.jpg,Root Damage,TN-792.jpg,3
+e5285b8eef788155e6e45d525ae52102,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-529.jpg,Hail damage,TN-529.jpg,1
+df6f08d43dcac1789be52d24dce52927,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2411.jpg,Mixed,TN-2411.jpg,2
+7276719f2e48f3aaed7b69187204d7cf,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2395.jpg,Mixed,TN-2395.jpg,2
+6d7efb6c4bcc19cc71bd418a51569f4c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-214.jpg,Hail damage,TN-214.jpg,1
+0aa08522f9503acb72344ed1c611fa6c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-140.jpg,Hail damage,TN-140.jpg,1
+2660e90c5bc3b3a8f6a3329790b209da,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1743.jpg,Mixed,TN-1743.jpg,2
+a26466ab33fe7cd346cdb8b9559031dc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-366.jpg,Hail damage,TN-366.jpg,1
+af94dd49a5203fe353fa8b2f6d3e5afa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1706.jpg,Hail damage,TN-1706.jpg,1
+a766c8e3d52c0c61c6e38ffddf40d9a3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-566.jpg,Mixed,TN-566.jpg,2
+e5c5673e80b313fc3b5a8f12e7db758d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-766.jpg,Mixed,TN-766.jpg,2
+a43db715d1c537c8ecf9ee19485921fd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-258.jpg,Hail damage,TN-258.jpg,1
+dfe0c12c7ad37c8935d10d6a4bdf2552,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-577.jpg,Strong-Light Burn,TN-577.jpg,4
+3a25c3bbbcbbc15d48c65c6773520322,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1271.jpg,Mixed,TN-1271.jpg,2
+cd9f568ef45cb7a5a6184d7a9488f4c0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1385.jpg,Mixed,TN-1385.jpg,2
+44be28e176c3a03e7351d4c8859eefc1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-468.jpg,Root Damage,TN-468.jpg,3
+dffe5b93a25c41d4d2d7b0dfad248997,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-582.jpg,Mixed,TN-582.jpg,2
+bf04ce59ec34b9aa9b04282f594064c2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-985.jpg,Mixed,TN-985.jpg,2
+fbcc2f2f29286dbe73a7b5c810bb4bbd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-318.jpg,Mixed,TN-318.jpg,2
+d89259cc49722ef9b7e7b2c76b9eb59a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-37.jpg,Strong-Light Burn,TN-37.jpg,4
+06bc6ddad104d5c5048ad215e2f0c250,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1230.jpg,Hail damage,TN-1230.jpg,1
+03428bf635524daa8e9a768109c11eb3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-711.jpg,Mixed,TN-711.jpg,2
+4c60538596fa92a9331a0ff465ef6f1c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-751.jpg,Hail damage,TN-751.jpg,1
+5edf6d578e75adf04dc7668e5b65c562,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-90.jpg,Root Damage,TN-90.jpg,3
+b7cc3f75e51edb68f09a4b14fb8fe29f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2455.jpg,Hail damage,TN-2455.jpg,1
+07a871a3cfe9da1bd6bd46c6e1bfa380,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-108.jpg,Cotton Bollworm Infestation,TN-108.jpg,0
+c22f01f218e9c5a4c9b419baace2d94a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-904.jpg,Cotton Bollworm Infestation,TN-904.jpg,0
+32eea075e3305d4a5275dfd71cadc43c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2431.jpg,Hail damage,TN-2431.jpg,1
+3923265245397dac105743ad9d3e6d61,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-262.jpg,Root Damage,TN-262.jpg,3
+ed2fbebcdc6c05dca068fdbc7e880fe3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-423.jpg,Cotton Bollworm Infestation,TN-423.jpg,0
+d9a72d69601903571976360e3e661829,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2246.jpg,Mixed,TN-2246.jpg,2
+136d0576121a3bc94124a2fe18375e36,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-983.jpg,Hail damage,TN-983.jpg,1
+e7e91fb60050f10b90e90fc3102e9bde,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1064.jpg,Mixed,TN-1064.jpg,2
+e9f4c3f87ab9a510b4b1242ad5df8099,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1841.jpg,Hail damage,TN-1841.jpg,1
+3a19ad5ab5d40e03df2b7fd5bcb8970b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1317.jpg,Mixed,TN-1317.jpg,2
+efe1638b3a2418a6544eb6a3694a77bd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1970.jpg,Hail damage,TN-1970.jpg,1
+8dddea743d10783542b57c6e25e70ea1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-531.jpg,Mixed,TN-531.jpg,2
+4fb1daa2755bf096ae1540ebdfad5123,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-556.jpg,Hail damage,TN-556.jpg,1
+ca4f2333179b8bbdc4bc0b9c1f08748a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-534.jpg,Root Damage,TN-534.jpg,3
+332d36db9ec8109676bca70fdc4d1fb0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-41.jpg,Cotton Bollworm Infestation,TN-41.jpg,0
+22438eafe0c30fa1d25f5e90f09839ae,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-700.jpg,Hail damage,TN-700.jpg,1
+1cf1a2001886395b4db36e6cb0bda672,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-607.jpg,Strong-Light Burn,TN-607.jpg,4
+74f4cc2ab83e6eae773466d8e41f48eb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-866.jpg,Hail damage,TN-866.jpg,1
+ba39f825ccf14126b793a76952734919,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1239.jpg,Mixed,TN-1239.jpg,2
+67daed1e238a2a835eb427a825d038a2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2418.jpg,Mixed,TN-2418.jpg,2
+ba919618ecebb8ebdd99a156067ca886,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-622.jpg,Hail damage,TN-622.jpg,1
+6dd6f58be5126f32bfe032e8ec22b554,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-515.jpg,Hail damage,TN-515.jpg,1
+c62204679b29125720f7bebddf93b8c1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-707.jpg,Cotton Bollworm Infestation,TN-707.jpg,0
+ccc3d9e5cc33ed4db3212e5681e8719b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2097.jpg,Mixed,TN-2097.jpg,2
+b358236c38ae17282687377151ea3dd4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2075.jpg,Hail damage,TN-2075.jpg,1
+678516b71390df9f8c49e3e11a052c92,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-188.jpg,Cotton Bollworm Infestation,TN-188.jpg,0
+d2fa4b6bec85ca43d7a5a0b23e491fc5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Strong-Light Burn/TN-184.jpg,Strong-Light Burn,TN-184.jpg,4
+79ad55bb87af3e2d478cfedaea402b59,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1806.jpg,Hail damage,TN-1806.jpg,1
+b62e72d09b0fd9d5a6b47d2452d0fafd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1331.jpg,Mixed,TN-1331.jpg,2
+0fb644d93f2fab31a0e9b61c94f5cf9c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-2.jpg,Root Damage,TN-2.jpg,3
+5ed89871bde887cbb57df1fc3c4108e6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1620.jpg,Hail damage,TN-1620.jpg,1
+0074e1b7508010e32e33d710f840ca8e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-855.jpg,Cotton Bollworm Infestation,TN-855.jpg,0
+bd13b5d35adba1f87ab33c24ae3c5d5e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-559.jpg,Cotton Bollworm Infestation,TN-559.jpg,0
+d9c0db7298bd73fd51905094bf67df33,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1862.jpg,Hail damage,TN-1862.jpg,1
+137bca1dda16103a2d0ffa937570d7cf,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1836.jpg,Mixed,TN-1836.jpg,2
+fdc18faf2d2ecf9e6884b6f3bea50868,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1186.jpg,Hail damage,TN-1186.jpg,1
+9746435191478ba527dae669b2d04afe,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-765.jpg,Root Damage,TN-765.jpg,3
+20a2da12b579e32d55290a6fa7a978fa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1588.jpg,Hail damage,TN-1588.jpg,1
+23cf12a40b026c9d8e8461314b9cd67f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1140.jpg,Mixed,TN-1140.jpg,2
+c3de64f291fbd57775548de654220e76,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-232.jpg,Mixed,TN-232.jpg,2
+fb5bc32e469ae53f0c7d5d9605f3e9c4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-793.jpg,Hail damage,TN-793.jpg,1
+ddd137a885fc62ceb753fee7232a6df9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-750.jpg,Hail damage,TN-750.jpg,1
+1eb6bcabff6244c6512750d0e293f5c1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-563.jpg,Mixed,TN-563.jpg,2
+ea015ba714ecf962b10a51c80ed7db17,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2639.jpg,Hail damage,TN-2639.jpg,1
+e28d69b691a295b5b07bafc329963a15,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-937.jpg,Cotton Bollworm Infestation,TN-937.jpg,0
+902949254bda1c39d1963ad9543d1601,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1458.jpg,Hail damage,TN-1458.jpg,1
+3b98a9937a2a22f00da9b4cf5597c118,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1475.jpg,Hail damage,TN-1475.jpg,1
+1443c9d09265f318055712533de6ef3f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-127.jpg,Mixed,TN-127.jpg,2
+cef4e969fb982231efaaf208af155d31,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-646.jpg,Hail damage,TN-646.jpg,1
+3c2d98bb31e0cbd84a9b8797286fff8b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-712.jpg,Mixed,TN-712.jpg,2
+f9b67a915425324fe714c467b5d5d5fb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-707.jpg,Hail damage,TN-707.jpg,1
+912d7d07262f45e62dd8fec305a4be5e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-969.jpg,Hail damage,TN-969.jpg,1
+846528272eeeedc7e51183b00e3d7ab6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-383.jpg,Root Damage,TN-383.jpg,3
+94e27a1f32c4eb16c6514d2c26e09f5a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-918.jpg,Mixed,TN-918.jpg,2
+e1698ae47349b01bf18d01748a6e77f2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-225.jpg,Hail damage,TN-225.jpg,1
+25aaea3ba0f23a635cd88249bc12b644,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-115.jpg,Cotton Bollworm Infestation,TN-115.jpg,0
+0f911a2efe9419913129b935b40a48fa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1301.jpg,Mixed,TN-1301.jpg,2
+0ecae8cd556c01f48370b94d25ebe054,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2408.jpg,Hail damage,TN-2408.jpg,1
+5618f83daad8e4a376f001ddc773cacc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-22.jpg,Hail damage,TN-22.jpg,1
+23e86e4c2d514538adb29add71b4b863,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-400.jpg,Strong-Light Burn,TN-400.jpg,4
+b7e81e731d4b411cee6931fcf8ad1144,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-635.jpg,Cotton Bollworm Infestation,TN-635.jpg,0
+454855f5ee53fe3fb7f6c445e0a7f15c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1883.jpg,Mixed,TN-1883.jpg,2
+84845f70da3cbca4b98b725a31fe6b0f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2126.jpg,Mixed,TN-2126.jpg,2
+bf631af874ceb32962ea75f4bc5aae14,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-745.jpg,Hail damage,TN-745.jpg,1
+1a619bb0b50448e60bf2a315c2d1ae26,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-133.jpg,Cotton Bollworm Infestation,TN-133.jpg,0
+c3b8ec17e16ba762ea63aa356b0a9212,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-638.jpg,Cotton Bollworm Infestation,TN-638.jpg,0
+1a92cc2dec757bd05d055977efc79b64,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-380.jpg,Mixed,TN-380.jpg,2
+713283200ee0f96af0638e0bd5d29abe,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1895.jpg,Mixed,TN-1895.jpg,2
+b0847fe24e69ee9369428dc2f138e040,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-184.jpg,Strong-Light Burn,TN-184.jpg,4
+1f40264f3e6fd44f89396df97ee019c0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-370.jpg,Root Damage,TN-370.jpg,3
+eebc533d56bc82868b814d618c46d769,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Strong-Light Burn/TN-210.jpg,Strong-Light Burn,TN-210.jpg,4
+9201059be763a97704f15df367744760,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-64.jpg,Hail damage,TN-64.jpg,1
+a183dd9fe325b5d13ac5573df73202b7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-501.jpg,Hail damage,TN-501.jpg,1
+9f309bd7cb28e6beccfad0c287259b1b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-943.jpg,Cotton Bollworm Infestation,TN-943.jpg,0
+443ee2a9aa083dca0204347bb64585a9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-47.jpg,Strong-Light Burn,TN-47.jpg,4
+c12be6ba43b7479d61c636eda79a80bd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1686.jpg,Mixed,TN-1686.jpg,2
+066c34e09eab33ed97bfbb405923f748,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-502.jpg,Mixed,TN-502.jpg,2
+9f73440f9a6a9eb5ccbd5234a795fb6c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-828.jpg,Root Damage,TN-828.jpg,3
+863d1d0a4d45349b6e47cb28f4b1e31e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-729.jpg,Hail damage,TN-729.jpg,1
+f4ea4d24ad3d431d5bf02f52c2adda78,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-291.jpg,Strong-Light Burn,TN-291.jpg,4
+6c0e6a0347829d87dd8028ad0de0624d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-46.jpg,Root Damage,TN-46.jpg,3
+846eb6ec699cb02f6321357a63cc255e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1726.jpg,Hail damage,TN-1726.jpg,1
+c6aa732f9baf1a53ff8d72e4249ea1f4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2613.jpg,Hail damage,TN-2613.jpg,1
+2efc2d992e9e53364146e7fcae3b963d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2656.jpg,Hail damage,TN-2656.jpg,1
+1cea03641141dd0a74ee7b3659a337e7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-164.jpg,Mixed,TN-164.jpg,2
+49808ebe9339f7e757a0337732aef683,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-770.jpg,Mixed,TN-770.jpg,2
+36b406147b6831669710a2c52aa0c7fb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-569.jpg,Hail damage,TN-569.jpg,1
+5c8678892594ce615791c40e3aa450b3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-447.jpg,Hail damage,TN-447.jpg,1
+10aab6969febf1a6ee84c18838722537,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1478.jpg,Mixed,TN-1478.jpg,2
+c968b288ee4c0023517e3d79958174e1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-505.jpg,Hail damage,TN-505.jpg,1
+9e30723a53afecd8bf8e99254e864588,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-733.jpg,Cotton Bollworm Infestation,TN-733.jpg,0
+19ca465e43778edf17952560bcedda6e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-104.jpg,Mixed,TN-104.jpg,2
+24f32891fbd2c819fa774dedb63d88e3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-863.jpg,Mixed,TN-863.jpg,2
+7dedb73a712a8cf5891178148c7cff9a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-951.jpg,Mixed,TN-951.jpg,2
+5aedd0e4ead2cab97cb489f4b9bf0ea3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-959.jpg,Cotton Bollworm Infestation,TN-959.jpg,0
+0d9c5148c740a0c4180fbb4810ef844f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-537.jpg,Hail damage,TN-537.jpg,1
+32daf55b3f89c705d04bbf9a1ba359d2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-173.jpg,Strong-Light Burn,TN-173.jpg,4
+4277b32acf5dc74240ea99e1b44accdd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-627.jpg,Hail damage,TN-627.jpg,1
+064f613ef025b6b5ba98349ab0cc20e7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-622.jpg,Mixed,TN-622.jpg,2
+ef167de5c0dbab5fd78cbdf46b8fb626,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-470.jpg,Hail damage,TN-470.jpg,1
+1ea66e9735a14c8a0c682cc4ee0d4790,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1419.jpg,Mixed,TN-1419.jpg,2
+a26b6e5ec862a24a67c8b2ecaa39d0c6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-464.jpg,Mixed,TN-464.jpg,2
+2f5c2a0e8e4b2b2281d0e15a2e279b50,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1096.jpg,Mixed,TN-1096.jpg,2
+452e7daf256bd811cdfc6f320b4157af,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-360.jpg,Hail damage,TN-360.jpg,1
+070abce0e9b2c348c8b6620dd96f189f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1393.jpg,Mixed,TN-1393.jpg,2
+1ff2ef3a2f25c20273e90e5b72d168c6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-580.jpg,Strong-Light Burn,TN-580.jpg,4
+00ba1867e59be33af4ecf4e685f5506b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-907.jpg,Hail damage,TN-907.jpg,1
+8c2faa1fcd27cb2cfca556973b965d5b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1934.jpg,Hail damage,TN-1934.jpg,1
+56bf3e5018b6ab9090fff6bbe4d3daff,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2404.jpg,Mixed,TN-2404.jpg,2
+66d5416ae1db9e5a615dc630facc3379,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1032.jpg,Mixed,TN-1032.jpg,2
+c0eed4bc879dd664471e203324e48f71,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1547.jpg,Hail damage,TN-1547.jpg,1
+b3e22289ea551322c7398f937eaf30b9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1540.jpg,Hail damage,TN-1540.jpg,1
+723345edf48133d897cb43483159e73b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-367.jpg,Cotton Bollworm Infestation,TN-367.jpg,0
+08791f8494bf630237683ea623dea675,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-661.jpg,Strong-Light Burn,TN-661.jpg,4
+2303dc88ce4410aa615078b902c96a8b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1434.jpg,Mixed,TN-1434.jpg,2
+29a6fb743eb637c72b5175461507adea,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-758.jpg,Hail damage,TN-758.jpg,1
+b919ac329cd62faf29d84842428066b1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1964.jpg,Mixed,TN-1964.jpg,2
+633c593938fd606b3ca54e8c156a54a3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-840.jpg,Mixed,TN-840.jpg,2
+d286891d8eb3fe444b052ebbc3fa7ba1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-439.jpg,Cotton Bollworm Infestation,TN-439.jpg,0
+4d3b69a41341b39d9d60a78377389380,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2939.jpg,Hail damage,TN-2939.jpg,1
+659d631263b4b4adf4e98d85a9fe49a3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1600.jpg,Mixed,TN-1600.jpg,2
+5ff5590bdd6248223914835b764a6064,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2271.jpg,Mixed,TN-2271.jpg,2
+930939c60d3728fe8b2273b2d688baa9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-80.jpg,Cotton Bollworm Infestation,TN-80.jpg,0
+6adeaedff26b5690213e47f7add24010,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-631.jpg,Strong-Light Burn,TN-631.jpg,4
+dfd12d4cf43a79cdd91933d813e093bf,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2211.jpg,Hail damage,TN-2211.jpg,1
+3fd6c241d7ab8970507c93977d63acf1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1061.jpg,Mixed,TN-1061.jpg,2
+fa276491dd1651f3f2171e672f3235ac,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-192.jpg,Strong-Light Burn,TN-192.jpg,4
+c3d556bdf84486710e0acee3f25b100b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1401.jpg,Mixed,TN-1401.jpg,2
+298d19b7fb71a5c17a01f2d05f06f4ce,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-427.jpg,Cotton Bollworm Infestation,TN-427.jpg,0
+a41d2b98dc6bc890cb5285964ecf5d2c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2650.jpg,Hail damage,TN-2650.jpg,1
+2f3992073ce5597b3533a2e69760f520,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-28.jpg,Strong-Light Burn,TN-28.jpg,4
+5159a2f4a852d881338ddc79c92d548e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-719.jpg,Mixed,TN-719.jpg,2
+f6e2b07077ae251d4e1feb75973b6dc2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-218.jpg,Cotton Bollworm Infestation,TN-218.jpg,0
+95c79ae1dade23491daccd5367762873,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-335.jpg,Hail damage,TN-335.jpg,1
+3ced110722a7848da2d4328181588e46,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2406.jpg,Hail damage,TN-2406.jpg,1
+d23d46e58c9a54a0f288db9706408897,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2041.jpg,Mixed,TN-2041.jpg,2
+7ddc61c5de45f3e6dba2b4bda89f343b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-311.jpg,Root Damage,TN-311.jpg,3
+2f9526d1780373cb42232e02b21a9451,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-546.jpg,Root Damage,TN-546.jpg,3
+5fe9982c2fd6841c924ab68bbb822784,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-450.jpg,Hail damage,TN-450.jpg,1
+21e09962fa97d06200d99d93529ba891,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2237.jpg,Hail damage,TN-2237.jpg,1
+ef0f83879f2ff6a90e9d8aa2a497f196,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-254.jpg,Strong-Light Burn,TN-254.jpg,4
+0f7047056d676888511460a82442849b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-42.jpg,Root Damage,TN-42.jpg,3
+6a840a553dd70e10a8349cc9e0559afb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-394.jpg,Strong-Light Burn,TN-394.jpg,4
+000b4585979b45a167a9e92e268e72ba,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1690.jpg,Mixed,TN-1690.jpg,2
+7de560870d2db306f6dfce68872b7a4a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-234.jpg,Root Damage,TN-234.jpg,3
+af0eb88e016b32a5bd0fb45ed1a8b244,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-452.jpg,Hail damage,TN-452.jpg,1
+f25ecfdd57c26f68ca0df06ec1d90276,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-868.jpg,Hail damage,TN-868.jpg,1
+c94066c4e69f94128ee772d88f06082a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-205.jpg,Cotton Bollworm Infestation,TN-205.jpg,0
+6d2244286eab2dcd6bada0c98af24066,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1277.jpg,Mixed,TN-1277.jpg,2
+14fa54dcc59ec648cc6646a94035ba7d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-839.jpg,Hail damage,TN-839.jpg,1
+a12034f05ef0d0c4cfc7d2b66f0e7ebc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-16.jpg,Root Damage,TN-16.jpg,3
+293159cc297cddf07895d83bb371b21e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-613.jpg,Root Damage,TN-613.jpg,3
+d23250bc07504a5c2f88d371ad85c2d1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-596.jpg,Root Damage,TN-596.jpg,3
+d03693bcdff9cd6e2fd6ce41af00cea5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1491.jpg,Hail damage,TN-1491.jpg,1
+4d263802da22c6608323289d0d5e7327,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1058.jpg,Hail damage,TN-1058.jpg,1
+11c409155e8a3bdd0caac6d5fd5a9597,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-670.jpg,Cotton Bollworm Infestation,TN-670.jpg,0
+8a9aaa083b0d24b9ee37e9556e1400e3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-321.jpg,Hail damage,TN-321.jpg,1
+f7eb0460194adf3f88220d48819f6115,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-706.jpg,Cotton Bollworm Infestation,TN-706.jpg,0
+c105e7fa4723ff666cd08f1320d0b4f6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1983.jpg,Hail damage,TN-1983.jpg,1
+951cdfb252b9a92d6a0b86a348b4db64,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-801.jpg,Mixed,TN-801.jpg,2
+2db38aef7900015957343b9e6978dcc8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-369.jpg,Strong-Light Burn,TN-369.jpg,4
+e2964e6a65c63822b38e9002416286de,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1513.jpg,Mixed,TN-1513.jpg,2
+6ecf3da429a27066fe4a57e3d75b0b60,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-282.jpg,Root Damage,TN-282.jpg,3
+b667490f51e9e38e49af786fafb3a79c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-374.jpg,Hail damage,TN-374.jpg,1
+d15fd0626c7dbc03512cd7f7ccb36fcc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-342.jpg,Hail damage,TN-342.jpg,1
+dbfcb62dfb2d1c1855dcd887ccd1729f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-577.jpg,Root Damage,TN-577.jpg,3
+d77a393f0ffdd4bdf1f11dd99321aa5d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2384.jpg,Hail damage,TN-2384.jpg,1
+d38a18885c20b5d442bcb87535b93627,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-656.jpg,Hail damage,TN-656.jpg,1
+8293112a74e20695a8610aca77cc706b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1520.jpg,Mixed,TN-1520.jpg,2
+05b564c8b15c55da31ff27914bb7a578,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-914.jpg,Cotton Bollworm Infestation,TN-914.jpg,0
+143096b55dccbc991c3e925c877460c7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-553.jpg,Root Damage,TN-553.jpg,3
+21d777f2b81499bbbb410318c5d05eee,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-777.jpg,Cotton Bollworm Infestation,TN-777.jpg,0
+c2ea7511554c4083af1e9044c173ca56,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1217.jpg,Mixed,TN-1217.jpg,2
+2ab9391b1aeef2551d2af3aa3f89a220,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-181.jpg,Hail damage,TN-181.jpg,1
+f03c784a58819aa5264286ee3a6fd289,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-802.jpg,Mixed,TN-802.jpg,2
+1bff53ad7a338b9e2a8f1a90c5b0ce43,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-986.jpg,Cotton Bollworm Infestation,TN-986.jpg,0
+be5cb50e8ff716db7a57299d6b805ab5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1210.jpg,Hail damage,TN-1210.jpg,1
+0e0d98d2a219102c9a39e7b65ca3303d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1227.jpg,Mixed,TN-1227.jpg,2
+aeb8dfaf174b65244f19cb5c0b6ab0f1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-1008.jpg,Cotton Bollworm Infestation,TN-1008.jpg,0
+2256beeecd4a6f16e3ace3a2698e25a1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-808.jpg,Cotton Bollworm Infestation,TN-808.jpg,0
+986c55a7a01b15a3db7fafc8061a1c24,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-476.jpg,Strong-Light Burn,TN-476.jpg,4
+2dc37f55719b30cd6d82786cda4e2c73,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1795.jpg,Mixed,TN-1795.jpg,2
+e8b4c2bab28af0681f562e42d457ac9a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2692.jpg,Hail damage,TN-2692.jpg,1
+a84fda52c6ac4022b06c66959c607f01,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-830.jpg,Mixed,TN-830.jpg,2
+bec67ab6cc9edb263c239e96a3d01f0d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1623.jpg,Hail damage,TN-1623.jpg,1
+09fdcb013f5247a584dd42c04999312a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1376.jpg,Hail damage,TN-1376.jpg,1
+510db28d8fcce1474e98a6cca68b5a8a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-373.jpg,Hail damage,TN-373.jpg,1
+9c13ab4a197c62b3592d854c5082dacc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2085.jpg,Hail damage,TN-2085.jpg,1
+e3ae2460c013c48f7c61bf50d4a887cc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Strong-Light Burn/TN-133.jpg,Strong-Light Burn,TN-133.jpg,4
+668a18bd4e247f203e9c04e71fa0ae71,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1457.jpg,Mixed,TN-1457.jpg,2
+01ea5393667fb853802f55e089c7aa30,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-391.jpg,Cotton Bollworm Infestation,TN-391.jpg,0
+db6e1ee41afacde1bd72cbfd94a3272b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-104.jpg,Root Damage,TN-104.jpg,3
+11a924cc375c5da75b1755d358cfb45f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-562.jpg,Root Damage,TN-562.jpg,3
+3b82910c0f3495ff1453f0ff76ebc9cc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-423.jpg,Hail damage,TN-423.jpg,1
+85ede4d7ca5d8ea80b9d9dde1b61e3b7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1984.jpg,Mixed,TN-1984.jpg,2
+7bcf89ca10202dfcde9825433b2c1e13,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-527.jpg,Mixed,TN-527.jpg,2
+2625fbc31973e40cb93501ac8bc3e72e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-403.jpg,Root Damage,TN-403.jpg,3
+c1103f2dc512b3fb4aa628bbb95822c1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-511.jpg,Mixed,TN-511.jpg,2
+09c8b06c17b12826c01e1c46beb10105,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-196.jpg,Cotton Bollworm Infestation,TN-196.jpg,0
+b789648ac935b61a88349138aab88b2c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-85.jpg,Cotton Bollworm Infestation,TN-85.jpg,0
+bb3bcfe2e0b4808c9935fea05e9dce7c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-714.jpg,Hail damage,TN-714.jpg,1
+ff1f3c252d850fc7b6ef5285b80cd6fa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-292.jpg,Root Damage,TN-292.jpg,3
+e406f5a3a4a445c6f4082fe42e6a58b1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-503.jpg,Cotton Bollworm Infestation,TN-503.jpg,0
+90ade05ada8b028b836620b1a41b0313,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1786.jpg,Mixed,TN-1786.jpg,2
+2458c2c83030c1aa7fe0e284fea269fd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1855.jpg,Mixed,TN-1855.jpg,2
+877b909c2dd77bdb298a8f616fe5670b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-102.jpg,Mixed,TN-102.jpg,2
+410dc00ef2b090bfc000af7d93104476,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1721.jpg,Mixed,TN-1721.jpg,2
+ec8aa65c55bea115ee640d336c1609f6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-33.jpg,Strong-Light Burn,TN-33.jpg,4
+376f7e6892f0387f2e3b04751c561d30,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-191.jpg,Cotton Bollworm Infestation,TN-191.jpg,0
+201637297568b2e0beffa2e815353af6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1470.jpg,Mixed,TN-1470.jpg,2
+291d97090d88dad865fd1693f227831b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2796.jpg,Hail damage,TN-2796.jpg,1
+a13d786ca1dd31f422c53c2acbbe017c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-421.jpg,Hail damage,TN-421.jpg,1
+ee7ca29f4d86df68eacf8ee24ddf26b4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1885.jpg,Mixed,TN-1885.jpg,2
+f49339dd5f5b9804e726ab14ad911570,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-872.jpg,Cotton Bollworm Infestation,TN-872.jpg,0
+fd0e7b7ccc2ad6969deb5507495ad851,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1257.jpg,Hail damage,TN-1257.jpg,1
+70c7629fe89859922659de004d6e8f03,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1635.jpg,Hail damage,TN-1635.jpg,1
+3529857eecdac11adaf6d8b9db195626,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-468.jpg,Cotton Bollworm Infestation,TN-468.jpg,0
+bce48148a9d971e4658a383e8113675f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Cotton Bollworm Infestation/TN-180.jpg,Cotton Bollworm Infestation,TN-180.jpg,0
+e15c7627466c0f9d566a4e63055677a3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-230.jpg,Mixed,TN-230.jpg,2
+6bd23ba19c0c09356263ee6b431dcb27,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-77.jpg,Root Damage,TN-77.jpg,3
+7841b3ecca61d44133f7a86a16c6651a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-442.jpg,Root Damage,TN-442.jpg,3
+1c8265fd636085ec36ff4d46c64ac721,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1816.jpg,Hail damage,TN-1816.jpg,1
+22323aa5d47803d687412c628f1ca966,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Root Damage/TN-34.jpg,Root Damage,TN-34.jpg,3
+a9ed1bcb03cc83990de646472f6e8a8f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2758.jpg,Hail damage,TN-2758.jpg,1
+6543dfa16f6b39f9c28e0961a9cb3ee3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1962.jpg,Mixed,TN-1962.jpg,2
+ab2b7c9cd71386b5985cc9661ced81f0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2223.jpg,Mixed,TN-2223.jpg,2
+7d707418de84fa7e1e570813c62e84d0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-803.jpg,Root Damage,TN-803.jpg,3
+5da5e0bfcede1a6fa251601d63845012,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2667.jpg,Hail damage,TN-2667.jpg,1
+c89606e53b4fa9405fafc6d18828eb58,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1616.jpg,Hail damage,TN-1616.jpg,1
+3a867c3be9e0dede2eca6ff7ce03e452,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-379.jpg,Mixed,TN-379.jpg,2
+99f361434d9a62d41fe3f309f7cbcaba,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-61.jpg,Hail damage,TN-61.jpg,1
+af977115298b16254f0c5fd126284171,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-455.jpg,Cotton Bollworm Infestation,TN-455.jpg,0
+84624976e7d2fb970e50f48da06ce309,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Cotton Bollworm Infestation/TN-42.jpg,Cotton Bollworm Infestation,TN-42.jpg,0
+b89566add9f821fe7fff000a49101c30,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-312.jpg,Root Damage,TN-312.jpg,3
+dd391b75cfa07de5beb176619d0266fa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1159.jpg,Mixed,TN-1159.jpg,2
+19b3a879d6c464b1330929c1adf0f08f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-797.jpg,Mixed,TN-797.jpg,2
+6fc22dfa0041eaef657dc015906ad1f1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1483.jpg,Mixed,TN-1483.jpg,2
+7656b135c909b9d323bb62cde29ea25d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-369.jpg,Cotton Bollworm Infestation,TN-369.jpg,0
+cfc0b1c9057cf8aed945a5c94ce25f70,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-752.jpg,Mixed,TN-752.jpg,2
+f45619f9e1ce117e55f95614c6cb0f2f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-319.jpg,Hail damage,TN-319.jpg,1
+6002354b83539fdf309c60bdbdc10503,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-450.jpg,Strong-Light Burn,TN-450.jpg,4
+5d0cd8adcb58ebdd33a726b1d04d22ef,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-665.jpg,Cotton Bollworm Infestation,TN-665.jpg,0
+1e8d4cbc1de5c62bc2aa5a4d2e9dbfea,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-150.jpg,Hail damage,TN-150.jpg,1
+c0910a08111f07f4d785a03d79e1338d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-352.jpg,Mixed,TN-352.jpg,2
+c6c00484e15430ef9c23eea09860c937,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2929.jpg,Hail damage,TN-2929.jpg,1
+016596d924d2c0ea05ab1c80cd0b2117,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2043.jpg,Mixed,TN-2043.jpg,2
+8683c97d6454ed86e32e6d152b9b5aa5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1868.jpg,Hail damage,TN-1868.jpg,1
+620251a2945c1b597d1cfd78ff43c504,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-593.jpg,Cotton Bollworm Infestation,TN-593.jpg,0
+98a2788626cc3bdc1f8ee15816e3e0aa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-221.jpg,Mixed,TN-221.jpg,2
+eb1d9bfdbe7e5b6aed3d4258b5ea89aa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Cotton Bollworm Infestation/TN-470.jpg,Cotton Bollworm Infestation,TN-470.jpg,0
+0727f00715484ea7c9532a3afa6eb007,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1455.jpg,Hail damage,TN-1455.jpg,1
+11abb7b92f905fe61dda0af4e279060e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-619.jpg,Root Damage,TN-619.jpg,3
+c40bf8ec269cc92ea0d80f59a0c13eed,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1074.jpg,Hail damage,TN-1074.jpg,1
+5a6bcdcf8fadac986e3555c560bee926,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-367.jpg,Hail damage,TN-367.jpg,1
+03b03d11c2e8697a5c1788c3d2bcd901,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1033.jpg,Mixed,TN-1033.jpg,2
+bd81607e68fd32352c8b433512df2b39,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-469.jpg,Root Damage,TN-469.jpg,3
+d6f8b01e0212779e94528110141c4f8b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-96.jpg,Strong-Light Burn,TN-96.jpg,4
+b856bad271c94f6f74d51286b4ecccc9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Cotton Bollworm Infestation/TN-200.jpg,Cotton Bollworm Infestation,TN-200.jpg,0
+b2d62647d107fff657744af0c3886d79,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2359.jpg,Hail damage,TN-2359.jpg,1
+206514dc78db80e95147b19fceb090b0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2395.jpg,Hail damage,TN-2395.jpg,1
+371dbf5f3af036c46fdb981ed9c0bddb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-555.jpg,Strong-Light Burn,TN-555.jpg,4
+aa5f82005a83e38233023483fdbf8b67,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1569.jpg,Mixed,TN-1569.jpg,2
+aa8399f90b168c00aa151d81e54cbdaf,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-687.jpg,Mixed,TN-687.jpg,2
+c24ad93e36d6377f326517029e91d772,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-582.jpg,Root Damage,TN-582.jpg,3
+0d0522fcc75c61a684ea80f307b5bc43,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2424.jpg,Hail damage,TN-2424.jpg,1
+43483396f6f38f8b99c6347d97709292,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-44.jpg,Cotton Bollworm Infestation,TN-44.jpg,0
+d1a876bf0e2679aa0988bab47e903b27,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2048.jpg,Mixed,TN-2048.jpg,2
+25a9b12f5c1e6ea0d006550fe2ab5282,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-371.jpg,Mixed,TN-371.jpg,2
+3cfb046870fe59f462844cb323f0ca52,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-235.jpg,Hail damage,TN-235.jpg,1
+b2e2a92017c58d9614949b3d73f80c79,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1493.jpg,Mixed,TN-1493.jpg,2
+c9ec8eafa3217537f44763f85b19cde2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-232.jpg,Strong-Light Burn,TN-232.jpg,4
+f2cfd5db8ea1b90b2a602c2ecd5e137c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-600.jpg,Mixed,TN-600.jpg,2
+753d582ac3eb6078d50e7f2b1038819a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1916.jpg,Mixed,TN-1916.jpg,2
+20d142c01c3724a0fa91480b855d2365,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2312.jpg,Mixed,TN-2312.jpg,2
+498bddc32e9a24c5219273789aa7be0b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-315.jpg,Root Damage,TN-315.jpg,3
+77bd7890e455375cd4de34b6b5d5df00,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1466.jpg,Mixed,TN-1466.jpg,2
+dd877db4b870c497eab1d251c00ef2c6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2002.jpg,Mixed,TN-2002.jpg,2
+4bdc71d3f237982e0b893f1e76aa135f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-1044.jpg,Cotton Bollworm Infestation,TN-1044.jpg,0
+f38ddbf857a7385e1914fb34b4a32d55,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-710.jpg,Cotton Bollworm Infestation,TN-710.jpg,0
+1850c3add4850475087d4b1d643a3675,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1700.jpg,Hail damage,TN-1700.jpg,1
+cbdef1e072a6d485aeab3082f857f327,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-807.jpg,Hail damage,TN-807.jpg,1
+ec1e479b8a002cb5deed509d95b1a423,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-882.jpg,Mixed,TN-882.jpg,2
+04364a5f1cfc1a4cbd4e92dbc254799b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-510.jpg,Strong-Light Burn,TN-510.jpg,4
+2671ea70ffcd85eb1791a702f7414024,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1444.jpg,Hail damage,TN-1444.jpg,1
+ffb7f169866828f33814a4cc06af6340,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-18.jpg,Cotton Bollworm Infestation,TN-18.jpg,0
+2916c4df9b8aebbc0315d67e8b7df203,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-473.jpg,Strong-Light Burn,TN-473.jpg,4
+30d14285469e92e82b110240e75c9198,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1336.jpg,Mixed,TN-1336.jpg,2
+a7565ddccae8ec0a19ac7f74a02d2c52,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-713.jpg,Mixed,TN-713.jpg,2
+ee1bb4371ea41a8331cf8f914d64d40c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1581.jpg,Hail damage,TN-1581.jpg,1
+644c79eec661b6be63e3f90e45ae7872,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2020.jpg,Hail damage,TN-2020.jpg,1
+b8babe29866b105a48123b62776ea1ba,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-279.jpg,Root Damage,TN-279.jpg,3
+53e4ec7760695d7aec258853e091b64d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Root Damage/TN-292.jpg,Root Damage,TN-292.jpg,3
+5e8914bdfa4c77d8fb4d81d7e7521530,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-415.jpg,Root Damage,TN-415.jpg,3
+01eb2c77013286c4cfcc29b4abd81a2a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-715.jpg,Mixed,TN-715.jpg,2
+a4f44c954f81f62995fc5099639b44be,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2241.jpg,Mixed,TN-2241.jpg,2
+1b4f7811f86dcee09a0a307a6c9f22ad,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1678.jpg,Mixed,TN-1678.jpg,2
+7e4ff114288c1cc60fef89ce4433fd90,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-79.jpg,Hail damage,TN-79.jpg,1
+3a5ca6a2b129368489b7ac6422481ecb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-380.jpg,Hail damage,TN-380.jpg,1
+0c109e8514123bbcbf24c68535753017,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-3.jpg,Cotton Bollworm Infestation,TN-3.jpg,0
+440c9db51daa63cd435170572b956435,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-933.jpg,Hail damage,TN-933.jpg,1
+7017580056c6ad24ef09ae2502e71533,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1148.jpg,Hail damage,TN-1148.jpg,1
+595d00a22b3f1dfc862c7d0227f62f25,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-92.jpg,Root Damage,TN-92.jpg,3
+9417d17974e826192d35be4649d672aa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1644.jpg,Hail damage,TN-1644.jpg,1
+69f599d3e605c8dff890debae5f9a3c8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-684.jpg,Cotton Bollworm Infestation,TN-684.jpg,0
+2bd30e8b11fbc015c2ee217f3b759d32,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2950.jpg,Hail damage,TN-2950.jpg,1
+e34853b087d48fbd83d10c90cd34a1e4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-203.jpg,Cotton Bollworm Infestation,TN-203.jpg,0
+b52e149402265739eb983046ba5cbd34,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-218.jpg,Hail damage,TN-218.jpg,1
+23240a6d5fb8c9559df8ddb7154ab18c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2072.jpg,Hail damage,TN-2072.jpg,1
+c0b21bca206d0b85f4651d087e60e74e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-727.jpg,Hail damage,TN-727.jpg,1
+155c890de21b681096790c5c94e49413,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-508.jpg,Root Damage,TN-508.jpg,3
+2711660a5b8cc773a034fc479fc5224e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-686.jpg,Strong-Light Burn,TN-686.jpg,4
+e39ea42159eb9bd53e12a0ef8b2f8605,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1001.jpg,Mixed,TN-1001.jpg,2
+8f0313276f71c67ac01db50c02d7fa66,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-237.jpg,Mixed,TN-237.jpg,2
+01cf00186eff50e25e9fc52fda712e7d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1866.jpg,Hail damage,TN-1866.jpg,1
+9f0df94461ab3bbae464bee399af1984,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1306.jpg,Hail damage,TN-1306.jpg,1
+a62a67953f5da6e87fdc966b2925bd62,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-665.jpg,Strong-Light Burn,TN-665.jpg,4
+29ca9b02219b8333fd861b77c2097c0d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1703.jpg,Mixed,TN-1703.jpg,2
+053dae85cccb218c94f9ae9cb209aede,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-89.jpg,Root Damage,TN-89.jpg,3
+a71495f3530cd5ff03604899806d7a9b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-274.jpg,Hail damage,TN-274.jpg,1
+fd78ccfc5eb53614a6a1a66a95e057fc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-599.jpg,Cotton Bollworm Infestation,TN-599.jpg,0
+2abd62fff78850df2acda4290db4278a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2417.jpg,Hail damage,TN-2417.jpg,1
+d0c39f76b1defcbabf7689b5bff39d58,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-401.jpg,Strong-Light Burn,TN-401.jpg,4
+5764430f85f1974672801d1d1c4b992e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-432.jpg,Hail damage,TN-432.jpg,1
+c9fef687fea4e7072dabe6c2ff240827,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-548.jpg,Strong-Light Burn,TN-548.jpg,4
+47ed167561c71c90ea9298ed8ae810ea,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-385.jpg,Hail damage,TN-385.jpg,1
+2098ba285f3d1bf7c8a382fb011c42ff,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1178.jpg,Hail damage,TN-1178.jpg,1
+9f3351c334af97d5045d95f4bc78e6e3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-113.jpg,Cotton Bollworm Infestation,TN-113.jpg,0
+660d873e259eb27202c80c1231a28533,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-370.jpg,Mixed,TN-370.jpg,2
+632a70219f4015d6e7d1c44fb2532d17,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1912.jpg,Mixed,TN-1912.jpg,2
+0cfe13a361424dc1cb79ef12ebe72655,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-138.jpg,Strong-Light Burn,TN-138.jpg,4
+39ff0507e957c96d310daf108e50fe6a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2783.jpg,Hail damage,TN-2783.jpg,1
+12d6e8e18482bcf73a4d4f568bcc0bbe,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1699.jpg,Hail damage,TN-1699.jpg,1
+3e41b41e1c23ed0424dd0d75ce33e1b3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-19.jpg,Strong-Light Burn,TN-19.jpg,4
+df6e545e9e12186d822d817059205e9c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1555.jpg,Mixed,TN-1555.jpg,2
+18bb20948374b0d14b7a4d3275ccf8b8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-390.jpg,Cotton Bollworm Infestation,TN-390.jpg,0
+d747e9c70b9f59a57e82f7d0b9df75f2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-454.jpg,Root Damage,TN-454.jpg,3
+f0b7e40d993ed1832e8290fb69ff6ce4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Root Damage/TN-154.jpg,Root Damage,TN-154.jpg,3
+c4c69804f6db4f0189a8dc98e39a0aa1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2608.jpg,Hail damage,TN-2608.jpg,1
+37d3185688d68818abdd5f6e810759ce,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-638.jpg,Strong-Light Burn,TN-638.jpg,4
+74d43bf01b79004805dd3b14482d128c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-502.jpg,Strong-Light Burn,TN-502.jpg,4
+8c74e73cb1f1771e83bca11f0687e227,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1818.jpg,Hail damage,TN-1818.jpg,1
+e9349373ea0826a9e360479dcd84c073,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1124.jpg,Mixed,TN-1124.jpg,2
+568cbeb77d539679b92942d23f535a0f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-556.jpg,Strong-Light Burn,TN-556.jpg,4
+99b3bb952eaa7774abd637f72fa0d746,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-649.jpg,Strong-Light Burn,TN-649.jpg,4
+bddc038837234fcbf972f8af20246c38,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2124.jpg,Mixed,TN-2124.jpg,2
+cbc5f57cab9d3459321f8e04e3793937,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1499.jpg,Mixed,TN-1499.jpg,2
+34912ca9c069986bc76e976a4df921fd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2448.jpg,Hail damage,TN-2448.jpg,1
+aa02a61ec570766eea7a8f5cb471bae0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1735.jpg,Mixed,TN-1735.jpg,2
+b15a7dd3bf0bbd9e586d2da28127b16a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Strong-Light Burn/TN-194.jpg,Strong-Light Burn,TN-194.jpg,4
+091633d84e3ae2949fa2af8378662610,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1668.jpg,Hail damage,TN-1668.jpg,1
+6c4e21329c0a7472f8b2757daebcefb4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-796.jpg,Mixed,TN-796.jpg,2
+03478b0a54016a296c849382d6da6d8b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2368.jpg,Mixed,TN-2368.jpg,2
+8fa86249a083834118f15af50d97f2c7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-709.jpg,Root Damage,TN-709.jpg,3
+38a7ebff86d2aa59c4291f4ef7eb71c3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2408.jpg,Mixed,TN-2408.jpg,2
+c18f9df90105d175d78f1ed5146398d5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-41.jpg,Strong-Light Burn,TN-41.jpg,4
+d0763756dcc8fb60dc796cb64fbcdb58,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-6.jpg,Cotton Bollworm Infestation,TN-6.jpg,0
+93eda92ecf9440ab83fa1df81bfdede8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1699.jpg,Mixed,TN-1699.jpg,2
+70bae5abb2acb14257b1fcf62dcd23f4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Strong-Light Burn/TN-130.jpg,Strong-Light Burn,TN-130.jpg,4
+0b289b582251079abc2bcf345cb31b65,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-254.jpg,Root Damage,TN-254.jpg,3
+92486b83906d8403d115d12f78219e42,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-1011.jpg,Cotton Bollworm Infestation,TN-1011.jpg,0
+a6afb6aafffaf0c4ac85b1f2feb842ea,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-245.jpg,Hail damage,TN-245.jpg,1
+6d4417b2c30fbf3233535576d5616ebb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-686.jpg,Root Damage,TN-686.jpg,3
+5c1e83f126b686586135a091329c01d9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-327.jpg,Mixed,TN-327.jpg,2
+08a14891ef58394a39b68aa1c5650fb4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-732.jpg,Cotton Bollworm Infestation,TN-732.jpg,0
+184d73684a0d3a0ed68892d7f0efa76f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-578.jpg,Hail damage,TN-578.jpg,1
+ae0b2225a8d741817b01aa38647b4a41,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1705.jpg,Hail damage,TN-1705.jpg,1
+be58eb79162cdae107290659a2b6847a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-475.jpg,Root Damage,TN-475.jpg,3
+9565900480628856663bfd50fd5d79a2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-533.jpg,Mixed,TN-533.jpg,2
+1ccdc458539b3cdc3327219617577102,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-13.jpg,Strong-Light Burn,TN-13.jpg,4
+eadaa724cd03c6ff184e741434af9aa9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1085.jpg,Mixed,TN-1085.jpg,2
+06c7e79fa36fa83de17a494d7fa2bd70,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Cotton Bollworm Infestation/TN-401.jpg,Cotton Bollworm Infestation,TN-401.jpg,0
+7a69d5c85600b7a50f0fa9b96e197aea,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-315.jpg,Cotton Bollworm Infestation,TN-315.jpg,0
+d175548a311868b7733eec164a544801,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-846.jpg,Cotton Bollworm Infestation,TN-846.jpg,0
+583ce6706846a6441f16002e80a78608,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1807.jpg,Hail damage,TN-1807.jpg,1
+880662945712327784fb48b8ab6fe567,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-383.jpg,Strong-Light Burn,TN-383.jpg,4
+d42e2d47c3129591b227b5e02b69e285,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2540.jpg,Hail damage,TN-2540.jpg,1
+d9a73f290309415874ccac215b12d0a0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-621.jpg,Strong-Light Burn,TN-621.jpg,4
+dc414d7699d84a04feca6921d6d48e8b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2207.jpg,Mixed,TN-2207.jpg,2
+7c885940142d217723c9178402df721f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-257.jpg,Strong-Light Burn,TN-257.jpg,4
+23d24ab60090914c61168fc19a03255e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-788.jpg,Root Damage,TN-788.jpg,3
+36f0f352759d5bc7642431560090f4d7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-437.jpg,Cotton Bollworm Infestation,TN-437.jpg,0
+a2dec9ce0321f21246c9514da6a5b658,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1557.jpg,Hail damage,TN-1557.jpg,1
+f875c74b9e8c688d1858f9d1fb29446b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-932.jpg,Cotton Bollworm Infestation,TN-932.jpg,0
+30d02a8554af7ec2e5293704ab586090,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1546.jpg,Hail damage,TN-1546.jpg,1
+1f4534ddf52215ed19f6821c029def0f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2388.jpg,Mixed,TN-2388.jpg,2
+093dabe9653569338a4ec5c96e4e1174,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2310.jpg,Hail damage,TN-2310.jpg,1
+d743db5a9c10d01b3c7d7fd04255b3fb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1111.jpg,Hail damage,TN-1111.jpg,1
+d97cc91be646278c16e4d09698a1ec70,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1636.jpg,Mixed,TN-1636.jpg,2
+3edfdfea5e4c54da0437403b98e4bbdb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Root Damage/TN-240.jpg,Root Damage,TN-240.jpg,3
+fea798c2e70044d187a2ad005f264ad7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1270.jpg,Mixed,TN-1270.jpg,2
+c51d84dedae732105872e9d5c83f95b0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1197.jpg,Mixed,TN-1197.jpg,2
+9fe37ede54fd1fea46b218c108e55bae,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-420.jpg,Mixed,TN-420.jpg,2
+e3f02f6c3cc7eb099a502b3b426564a9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-723.jpg,Root Damage,TN-723.jpg,3
+27e72d789a4adca84920cf0267de54d4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-548.jpg,Root Damage,TN-548.jpg,3
+117bebcf8335549571ecbd4439c9bcac,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-552.jpg,Root Damage,TN-552.jpg,3
+2f10ed496a38be882b703cab0d5f3533,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-705.jpg,Hail damage,TN-705.jpg,1
+ec7234430a3c034fe814a625fc3a5441,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1471.jpg,Mixed,TN-1471.jpg,2
+2d153b20e3f9ada22ee27a03dcc9eaaa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1687.jpg,Hail damage,TN-1687.jpg,1
+b7b0201d58de0aebf779fe94b477afad,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1978.jpg,Hail damage,TN-1978.jpg,1
+9d265d21e387e3e23b7b2c016cc1338b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-2.jpg,Cotton Bollworm Infestation,TN-2.jpg,0
+ebf44242459a5b95806746f46f1f754a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1477.jpg,Hail damage,TN-1477.jpg,1
+4eab015d988012010bd685c828340b31,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2296.jpg,Mixed,TN-2296.jpg,2
+02f4db4b61757d7218846c0319d86543,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-351.jpg,Mixed,TN-351.jpg,2
+4a4bba84b4f4ea9eb01a40e35bb276e5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-99.jpg,Strong-Light Burn,TN-99.jpg,4
+a18c226874019da4df969e72111eb293,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-108.jpg,Strong-Light Burn,TN-108.jpg,4
+c7a22b46dab7ede054e5ab177c61d3ff,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2331.jpg,Hail damage,TN-2331.jpg,1
+0144c6add30de8b51175834d2f270743,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1897.jpg,Mixed,TN-1897.jpg,2
+dcf4ae5a7e7557e0817e5b64df3054a6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-702.jpg,Root Damage,TN-702.jpg,3
+43fa4b452b522fba326a3c44bb6ad1c8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-85.jpg,Root Damage,TN-85.jpg,3
+6564b255e91f4f07b533e9bac74f4421,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1453.jpg,Hail damage,TN-1453.jpg,1
+391d66038be442e04f23d1d58771e976,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1321.jpg,Mixed,TN-1321.jpg,2
+c86d6be63c45efb3f651f31aba459ff6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-10.jpg,Mixed,TN-10.jpg,2
+0c544597fe8060d27f1bbd65e29c2e14,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Root Damage/TN-221.jpg,Root Damage,TN-221.jpg,3
+f49912a53c91213b7ac85a8b534e02d2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-472.jpg,Cotton Bollworm Infestation,TN-472.jpg,0
+10db04fc692b2bbef5c2fe38c16e9575,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-579.jpg,Cotton Bollworm Infestation,TN-579.jpg,0
+e9e48bc5b31f45a2009767406f052114,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-199.jpg,Strong-Light Burn,TN-199.jpg,4
+2a70d5ec8f2ee31938d588f35eae5d6c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-960.jpg,Hail damage,TN-960.jpg,1
+727c5a1dbe88f68a900821d4c1abd722,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-793.jpg,Root Damage,TN-793.jpg,3
+9e49c77e5ed0d3f1dad0ae52667d9326,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Root Damage/TN-210.jpg,Root Damage,TN-210.jpg,3
+26d03fc05205cc80ffc554bd9aa47d7a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-97.jpg,Strong-Light Burn,TN-97.jpg,4
+fd46a9ef8eea702d6bdd1ec42211a0d8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2181.jpg,Mixed,TN-2181.jpg,2
+1e252fb1e60700b43289279d95a916aa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2248.jpg,Mixed,TN-2248.jpg,2
+9359bf06741cb1a1af673f5207f63f7f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1500.jpg,Hail damage,TN-1500.jpg,1
+ecb7226cd4455ef285831b60b236fffb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2937.jpg,Hail damage,TN-2937.jpg,1
+460273d116382843b289da06698c8fb0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1005.jpg,Hail damage,TN-1005.jpg,1
+2013a5e7b89a871c057b23ca787936a4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2369.jpg,Hail damage,TN-2369.jpg,1
+56d23f2b901d1b1cfce0555777044c52,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-637.jpg,Cotton Bollworm Infestation,TN-637.jpg,0
+d80d8a3dc522285166d7d1f6b1026313,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-266.jpg,Strong-Light Burn,TN-266.jpg,4
+557ffd95eac0c030cde514ffb6a2c425,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1624.jpg,Mixed,TN-1624.jpg,2
+1186cbd0676a5ac329aadfbc799e0897,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-169.jpg,Cotton Bollworm Infestation,TN-169.jpg,0
+7f903b4484b027e3ea5d0ee340d83439,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-929.jpg,Mixed,TN-929.jpg,2
+d107a275e99aed6036900aab1bd8fb56,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-380.jpg,Strong-Light Burn,TN-380.jpg,4
+fe35b048237e2574b652a36b4e41c5fe,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-307.jpg,Mixed,TN-307.jpg,2
+fb46fa4824ad7f8f5e1d37954197f52e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-6.jpg,Hail damage,TN-6.jpg,1
+ede9babddc95d3ec46a6219f59bf9015,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-510.jpg,Mixed,TN-510.jpg,2
+6b1c6f82f75f5367f7e613a52bd3df60,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-452.jpg,Mixed,TN-452.jpg,2
+f20c3c6be82ffe28b9fb538ba6d4edfb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1767.jpg,Mixed,TN-1767.jpg,2
+ef96c0804122b8ee01d8fab58a00e6c9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1716.jpg,Hail damage,TN-1716.jpg,1
+1e482146009085a6f61c4e7500da601b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2716.jpg,Hail damage,TN-2716.jpg,1
+3751688b8a8411330bcdb4f89b6f5432,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-553.jpg,Strong-Light Burn,TN-553.jpg,4
+9704e49ac94fc60c4e096a9f5816f64a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-171.jpg,Hail damage,TN-171.jpg,1
+207ebd781455d043a3ce3198d226e307,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-151.jpg,Cotton Bollworm Infestation,TN-151.jpg,0
+8284176adcd97b064b431fd8ea20e576,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1405.jpg,Hail damage,TN-1405.jpg,1
+a7d69aa6cea163f9c0f51046e3397bcc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2388.jpg,Hail damage,TN-2388.jpg,1
+4db12eefc2ad598ef92ab1b2e7e54246,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1106.jpg,Hail damage,TN-1106.jpg,1
+c64846240f83a7fad7bd9518fa2a24d5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1541.jpg,Mixed,TN-1541.jpg,2
+ebd53f9b986e7fadac66ee2e234a1e4d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2056.jpg,Hail damage,TN-2056.jpg,1
+707044d5e104b76580a66d792393005e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2887.jpg,Hail damage,TN-2887.jpg,1
+f5febc054471f02c519b5be847236d65,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-560.jpg,Root Damage,TN-560.jpg,3
+676c0d8603ec6f4ebd88f7eb0ecea1bf,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-810.jpg,Root Damage,TN-810.jpg,3
+f8e4b694286edca473eb227becd8ed4b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-376.jpg,Strong-Light Burn,TN-376.jpg,4
+852390d9f66fd3712ece3f5d662d300a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-674.jpg,Root Damage,TN-674.jpg,3
+b967dfad64062035c0102e63b7619f48,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-209.jpg,Cotton Bollworm Infestation,TN-209.jpg,0
+20bec384b8f74fdcec956a6a9cc84083,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-120.jpg,Cotton Bollworm Infestation,TN-120.jpg,0
+7777dc41f0a5f08cc19276ffb93c9e8f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-410.jpg,Mixed,TN-410.jpg,2
+c7882f06281a4979b3ea114cb4d30a27,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2490.jpg,Hail damage,TN-2490.jpg,1
+be23e97fb46eeb78bd576d8bbc17c67f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-594.jpg,Hail damage,TN-594.jpg,1
+cfa377956173f096d324f256e57ecdae,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-573.jpg,Root Damage,TN-573.jpg,3
+92b3852a6660b8569a03dc0cbbd216d4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1874.jpg,Mixed,TN-1874.jpg,2
+703d14a52b6698aac1d64e8767392794,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1562.jpg,Mixed,TN-1562.jpg,2
+08f72052caf4108747d9e3ca36c79699,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-694.jpg,Strong-Light Burn,TN-694.jpg,4
+6aee8f780c5955bdfa87ef5a0d427b53,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1586.jpg,Hail damage,TN-1586.jpg,1
+04ca8ef0daeeae356d8a705a991ba6a9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2384.jpg,Mixed,TN-2384.jpg,2
+24417d6fcbb15c8fb93f8c1e1fbb8411,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-759.jpg,Cotton Bollworm Infestation,TN-759.jpg,0
+9a46a96da14f841dbd6347abb7a45363,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-537.jpg,Root Damage,TN-537.jpg,3
+ebb2b3d77d5085f4ce2e58ee5dccd4e9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1253.jpg,Mixed,TN-1253.jpg,2
+9e4c077f8a35be567585358a4a445c96,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Cotton Bollworm Infestation/TN-340.jpg,Cotton Bollworm Infestation,TN-340.jpg,0
+cafd16987bc53e5853a6ef0c7dd03303,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-76.jpg,Root Damage,TN-76.jpg,3
+c655ee6969bd73aadc7cc73267f19de5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1859.jpg,Mixed,TN-1859.jpg,2
+605f368c615b2846d2a6aac638c60cbb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-304.jpg,Strong-Light Burn,TN-304.jpg,4
+4f40ae648dd7486ac3a6c5618442d8b7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-396.jpg,Root Damage,TN-396.jpg,3
+04dc404c46be5172338a9426ff5c4e74,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1321.jpg,Hail damage,TN-1321.jpg,1
+b4efa5980bb00a709abf45a17d01fc28,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-532.jpg,Strong-Light Burn,TN-532.jpg,4
+293a05f65fa469baa957f7a9ea31d2ae,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1181.jpg,Mixed,TN-1181.jpg,2
+5003df6b3cc4804c4bd58b7376e74149,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-801.jpg,Hail damage,TN-801.jpg,1
+8fa753a89f38dfad450092370b50eb1b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2556.jpg,Hail damage,TN-2556.jpg,1
+ecd4e8b9ee3a2008541ba92b0fd0e08b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-23.jpg,Strong-Light Burn,TN-23.jpg,4
+b1f11bc1b9edde19d195ac89211f946e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1247.jpg,Hail damage,TN-1247.jpg,1
+6e3c0de3d367cc0a85ea9768ece066c1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-464.jpg,Hail damage,TN-464.jpg,1
+8445719260378ce7720e5fcb27166fe7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-8.jpg,Mixed,TN-8.jpg,2
+2d1333a72f5a227e27dc06f55508defe,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Cotton Bollworm Infestation/TN-230.jpg,Cotton Bollworm Infestation,TN-230.jpg,0
+78350168ec8e455b76233d0537a490ae,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-535.jpg,Mixed,TN-535.jpg,2
+fecb450ec9a6a152cb577b2e13a987bb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-534.jpg,Hail damage,TN-534.jpg,1
+38f45776bcd6503ec47e4297e201793c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2130.jpg,Hail damage,TN-2130.jpg,1
+3384400839069b3a6679abc3356286c9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-315.jpg,Mixed,TN-315.jpg,2
+1c5334a303ecafffb945aa398e816936,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1459.jpg,Mixed,TN-1459.jpg,2
+daa60b3570faafa10953a396315c9b30,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1508.jpg,Hail damage,TN-1508.jpg,1
+c2ef9fbabe13904564587616310df6ee,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2306.jpg,Mixed,TN-2306.jpg,2
+0860382d031f04c88104eb62653f34c8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-160.jpg,Root Damage,TN-160.jpg,3
+58a7e920948d8163b5b76a1140d21cb2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-510.jpg,Mixed,TN-510.jpg,2
+b33886fb846f876e3c6b4d7913c5fb25,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-157.jpg,Strong-Light Burn,TN-157.jpg,4
+004419ba23da75a96a0a71e9f9a0a476,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-459.jpg,Hail damage,TN-459.jpg,1
+49e691eaa7cc81c3da10ccb60bc05776,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2111.jpg,Mixed,TN-2111.jpg,2
+3dc47b9dc687c9bb5233688c6a695e07,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-407.jpg,Hail damage,TN-407.jpg,1
+403ecb8007e9e2122228bd29671904f2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1875.jpg,Mixed,TN-1875.jpg,2
+c77a032fb83a0fce389d25699076f97b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2867.jpg,Hail damage,TN-2867.jpg,1
+fb211f62e2d69e5b9accbbedd54094ff,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-330.jpg,Mixed,TN-330.jpg,2
+dd05f19ec674d0d36ee7c3117a5882fa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1914.jpg,Mixed,TN-1914.jpg,2
+4c33008400e9023d2eabdf5e843f0d02,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-533.jpg,Root Damage,TN-533.jpg,3
+1ca8375584f8d4a1a0256361ff5e7a3c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-896.jpg,Mixed,TN-896.jpg,2
+0575fc963d4fb08b4d892b815d4dd97a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1387.jpg,Mixed,TN-1387.jpg,2
+c342e3ef543221cc3405801e85ca72ac,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-210.jpg,Strong-Light Burn,TN-210.jpg,4
+08b69b52feba522a7ed9bb805cd72ef9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1647.jpg,Mixed,TN-1647.jpg,2
+c14e9a15fde13acb8a4397d8cd50f054,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1235.jpg,Mixed,TN-1235.jpg,2
+f8e40072d29df089aac7dc5ea2bbd8ca,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Root Damage/TN-42.jpg,Root Damage,TN-42.jpg,3
+b370fa5dcf13819e1eb6afc7abef01b9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2282.jpg,Mixed,TN-2282.jpg,2
+8b5ecf804760978287cf4a300a5e336f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-678.jpg,Mixed,TN-678.jpg,2
+771153519429e54ab246dea7ad503f51,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1110.jpg,Mixed,TN-1110.jpg,2
+7ce37508b664d3a36c9f4545c023fea6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1854.jpg,Hail damage,TN-1854.jpg,1
+9a9c38b8d5c2113a532b1eb590547077,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1345.jpg,Hail damage,TN-1345.jpg,1
+65348c249022094940232e0fd92c4f60,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-737.jpg,Mixed,TN-737.jpg,2
+684b7f415f60813df20c61a427fab755,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-93.jpg,Strong-Light Burn,TN-93.jpg,4
+9cc8838c6cfb349aba3ffc9d0e7b2c09,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1481.jpg,Hail damage,TN-1481.jpg,1
+8c31e821bb8f99164aa1d06e905e5862,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-185.jpg,Cotton Bollworm Infestation,TN-185.jpg,0
+545e01a206d2d7801f7417741a35f949,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-137.jpg,Root Damage,TN-137.jpg,3
+1c9218676bda6b1889de04de7cf464c8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2378.jpg,Mixed,TN-2378.jpg,2
+0ed552858fdba70e9315179be1ce47b1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1808.jpg,Mixed,TN-1808.jpg,2
+7463f2311e207b08dc246a62040b9210,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2262.jpg,Mixed,TN-2262.jpg,2
+8d7aa1ba2b38046eace10b916a2e646d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Mixed/TN-142.jpg,Mixed,TN-142.jpg,2
+578e4c9b1310441d6331fb6bbc80e692,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-190.jpg,Root Damage,TN-190.jpg,3
+95100d19a0b1747e0cbe8e0072685a42,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-739.jpg,Hail damage,TN-739.jpg,1
+fe731e7d039f28baff4ecdaa5a0d32cd,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2245.jpg,Hail damage,TN-2245.jpg,1
+1ef0342e509b1fefa3278b520fae679d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-198.jpg,Mixed,TN-198.jpg,2
+4343e75e9fb7c30c09d0130a7c3c0fec,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1090.jpg,Mixed,TN-1090.jpg,2
+954bbfa7740c5370bab87f05e5422695,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-380.jpg,Hail damage,TN-380.jpg,1
+3ac1871f6ff0d2e58118285df58ffc72,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1802.jpg,Mixed,TN-1802.jpg,2
+1d74de9aa4fe3b77058cb0575f892db4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-160.jpg,Strong-Light Burn,TN-160.jpg,4
+f96dd41b122b9912d7082d99b4841e4e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-706.jpg,Root Damage,TN-706.jpg,3
+5217d21173f77cbff32e1af7ddcb6433,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1026.jpg,Mixed,TN-1026.jpg,2
+17d93a7ad7893e70eef1b08c1eb5de86,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1642.jpg,Mixed,TN-1642.jpg,2
+98aa3b7a0ce22487afd3ff4006d761a8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-680.jpg,Root Damage,TN-680.jpg,3
+3755b9405084ceff47542eb31cb3a877,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2385.jpg,Mixed,TN-2385.jpg,2
+9c9ad91f932e278a0e8fec858d2ff6de,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-806.jpg,Mixed,TN-806.jpg,2
+a5cb6bdb29ba1460cc1472be9da81581,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-334.jpg,Cotton Bollworm Infestation,TN-334.jpg,0
+1f4fb24cbfb8486eb7be9aba04515c3e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1971.jpg,Mixed,TN-1971.jpg,2
+c7db9a4a649c167c6d83365861051b02,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-919.jpg,Hail damage,TN-919.jpg,1
+3fc11e48d6bb33c50b1fda54b98c36e7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1120.jpg,Hail damage,TN-1120.jpg,1
+3347ccdeb8b60a53dba8abdb716b9cf8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-127.jpg,Strong-Light Burn,TN-127.jpg,4
+be4f68893f2e2392b7a9081c697b9a39,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-698.jpg,Root Damage,TN-698.jpg,3
+daaa4829737cf52b2ab4afb41ae57e96,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1713.jpg,Mixed,TN-1713.jpg,2
+08f3d0d9a6c9d655838c838a33548225,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1012.jpg,Hail damage,TN-1012.jpg,1
+62f14db1e96d04659aa866bd6344ef5f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-648.jpg,Cotton Bollworm Infestation,TN-648.jpg,0
+acf394c9b20b3fd5cc7d5b3a3503df49,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-158.jpg,Strong-Light Burn,TN-158.jpg,4
+f8e915f5a1e6df5763ed9dd22eae96b1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-874.jpg,Cotton Bollworm Infestation,TN-874.jpg,0
+376dd42f0c791782c27d6d0c0a347dac,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-199.jpg,Root Damage,TN-199.jpg,3
+8d81abd58d43c168a4703b23a49ff5dc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-510.jpg,Hail damage,TN-510.jpg,1
+e947d81e8f7f717b7486f7c35a8cf986,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1236.jpg,Hail damage,TN-1236.jpg,1
+13b79e8c04efd5c48064224d4cdb4383,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2868.jpg,Hail damage,TN-2868.jpg,1
+326fe337fa895144f9b4ef83a90f6266,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-947.jpg,Hail damage,TN-947.jpg,1
+5b95fed1416e0640f04c3aaf33e24718,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2147.jpg,Hail damage,TN-2147.jpg,1
+08ad7f0beb1f02771d977d53da7851d4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-969.jpg,Mixed,TN-969.jpg,2
+20861a1845204c1ca5061dd8a60c6c38,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2315.jpg,Mixed,TN-2315.jpg,2
+ef3a1333671946596e0e377fdaaa9bd7,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-958.jpg,Hail damage,TN-958.jpg,1
+21e2f9f3eb43ea2153d3d62dcb0d7c57,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-676.jpg,Cotton Bollworm Infestation,TN-676.jpg,0
+a300a20ebf500b468aea48c6f15b5538,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-222.jpg,Cotton Bollworm Infestation,TN-222.jpg,0
+5b606c1b486d5b68143bc540d39e011d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-595.jpg,Strong-Light Burn,TN-595.jpg,4
+9dd99202c0473c61f300b50d36a41d57,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2569.jpg,Hail damage,TN-2569.jpg,1
+02ed38ddef9653319aa58ec470b0d7b0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-915.jpg,Hail damage,TN-915.jpg,1
+7c176c3aca58c6a107a05a2cba540248,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1919.jpg,Hail damage,TN-1919.jpg,1
+f75afe7c66dd01c14cfe3c5f4fc26dfb,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2174.jpg,Mixed,TN-2174.jpg,2
+fdd84119b4269c4a80db09fea15dd6f3,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-977.jpg,Hail damage,TN-977.jpg,1
+16f25e69b165440893302c7b9e1e2de8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-21.jpg,Mixed,TN-21.jpg,2
+c5d5920ee828d0cc81ac83a3fc9fbb0f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-302.jpg,Strong-Light Burn,TN-302.jpg,4
+a68adaf178cefa5293b8cd9289795122,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1607.jpg,Mixed,TN-1607.jpg,2
+133f573043684a11947be6eafb36d201,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-710.jpg,Hail damage,TN-710.jpg,1
+47aa59dc3316d92a1bb1643ee3cb61b9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-874.jpg,Mixed,TN-874.jpg,2
+518e2e65fd0d26ddf89d37f67fbfacc9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-203.jpg,Hail damage,TN-203.jpg,1
+6b36c763fb21384a2337473c79913e50,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-462.jpg,Root Damage,TN-462.jpg,3
+406dcb72fdfed818771343af4042fc03,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-547.jpg,Hail damage,TN-547.jpg,1
+4f49d5d1ceb2d53ce805e310eac24903,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2086.jpg,Mixed,TN-2086.jpg,2
+f55764577c37816c157088b31a425f60,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-541.jpg,Hail damage,TN-541.jpg,1
+4270efd1f0cfa11f8a10d0483e3e3ef0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-360.jpg,Root Damage,TN-360.jpg,3
+a7c3d68a2c15342f8c77e6cda890c109,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1667.jpg,Hail damage,TN-1667.jpg,1
+c6c5175b0d4acb5a9e843094b5c0684a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-709.jpg,Hail damage,TN-709.jpg,1
+29779207a7bad7dcd9d51a290a2b2baa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-399.jpg,Mixed,TN-399.jpg,2
+c548c6ce1894008ee56effacf06d8f9e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-177.jpg,Hail damage,TN-177.jpg,1
+113a2a2e9c6d34eba77fbe18951cea6d,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-36.jpg,Mixed,TN-36.jpg,2
+1a56340bcd2b95ab9775728f8a32792b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2100.jpg,Mixed,TN-2100.jpg,2
+1f0d4f19f5106123f6fcd1dd08d5392c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-570.jpg,Root Damage,TN-570.jpg,3
+ad0528fbd90d52f9f8941164e97756c6,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-787.jpg,Root Damage,TN-787.jpg,3
+aa952538791a002d7c5cbdadd1aff6e0,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-493.jpg,Strong-Light Burn,TN-493.jpg,4
+b07226f2631c78cb9de7870153472556,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-373.jpg,Hail damage,TN-373.jpg,1
+3b5ebbec5950db54474689d8e514837c,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-194.jpg,Cotton Bollworm Infestation,TN-194.jpg,0
+bce46d5a76ab0e657aae26c9c28efb32,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2324.jpg,Mixed,TN-2324.jpg,2
+ed441c539d7483a28d9734b0467629e1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-370.jpg,Hail damage,TN-370.jpg,1
+7c83c10f3058df65b0d639903ec5fc38,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-629.jpg,Strong-Light Burn,TN-629.jpg,4
+76fa605ad53f0d630fc621cc79904f8e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-875.jpg,Cotton Bollworm Infestation,TN-875.jpg,0
+9a25b6be65b90de0c028a7cbb7542251,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-581.jpg,Mixed,TN-581.jpg,2
+6b9231ae0624952c9d42f2e7bb8101ca,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-219.jpg,Mixed,TN-219.jpg,2
+4ef00a9c7f30966421430a3d80f1dfdf,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1619.jpg,Mixed,TN-1619.jpg,2
+9f36610270466cefb7b37ca6a6ff2e50,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1090.jpg,Hail damage,TN-1090.jpg,1
+fb5b4e1fc6ffde37eff0ae385e3d6130,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-901.jpg,Cotton Bollworm Infestation,TN-901.jpg,0
+9556f047a689fe454bfcfe2bf521a857,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2769.jpg,Hail damage,TN-2769.jpg,1
+c4a29161f6073bf8e0e60872c733e3db,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-321.jpg,Mixed,TN-321.jpg,2
+e19ff71efbe4b52936715fc5d90902a9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-995.jpg,Hail damage,TN-995.jpg,1
+f554122a95ad51b0e55b0d845e37abb5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-702.jpg,Hail damage,TN-702.jpg,1
+bbf1ca1749c18df0efbcfaba20cfc3f1,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1804.jpg,Mixed,TN-1804.jpg,2
+9648ebd0b9e6e11b9bb515dc7c4039fa,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-623.jpg,Cotton Bollworm Infestation,TN-623.jpg,0
+d11f5115a170ba02abfa25fde65cec95,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-425.jpg,Mixed,TN-425.jpg,2
+f65dd11eab09cf99e4fc003d3316e3ae,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-240.jpg,Mixed,TN-240.jpg,2
+226cd93f4fd4645938a4a9cf7552d465,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-2025.jpg,Mixed,TN-2025.jpg,2
+033b1c4d99b28ee21ba4e9d3a129b546,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-236.jpg,Strong-Light Burn,TN-236.jpg,4
+10b26bed9a7322726d7164e6bc900422,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-235.jpg,Mixed,TN-235.jpg,2
+0a8e6f58d075af96ba501dd742182b09,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-711.jpg,Root Damage,TN-711.jpg,3
+cf1d98e149c76cb25f383b3f80d70022,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2378.jpg,Hail damage,TN-2378.jpg,1
+174d076552aad66238c9444a58434621,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-131.jpg,Root Damage,TN-131.jpg,3
+cfc4b13e8c50084e5be12929c1543a14,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1918.jpg,Mixed,TN-1918.jpg,2
+90b6d50fe54d91e5f509aa8483c149ae,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1680.jpg,Hail damage,TN-1680.jpg,1
+bda2010a86beb9fbb2abf73cb7728ec5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-54.jpg,Strong-Light Burn,TN-54.jpg,4
+b3dd64479af322e5adfc0997fb950c36,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-196.jpg,Hail damage,TN-196.jpg,1
+4eadc2d1819135b2ec998d831327190f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-703.jpg,Mixed,TN-703.jpg,2
+b154abbb5e9dd2bc25fef2147fb2f6d8,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-196.jpg,Mixed,TN-196.jpg,2
+2ff2c3791dbc9c0fb529e3cef7aa19e9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-314.jpg,Hail damage,TN-314.jpg,1
+a627c9dbb2a00727a3160c89a2a2f8b4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-172.jpg,Cotton Bollworm Infestation,TN-172.jpg,0
+d7e87041589fb419a9297d5ded2da9b5,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1517.jpg,Hail damage,TN-1517.jpg,1
+1241c3dd06e064140451f687407fc9e9,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-504.jpg,Hail damage,TN-504.jpg,1
+1dac68cf683126f55e6a6510baed9d87,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-420.jpg,Root Damage,TN-420.jpg,3
+7a86018b988b243d1eb195f06065b887,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-719.jpg,Hail damage,TN-719.jpg,1
+34f08c6254eed479c74b9a3b7810fe7f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1180.jpg,Mixed,TN-1180.jpg,2
+5daa8875ecd3256b3ca0cb225319637a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-1798.jpg,Hail damage,TN-1798.jpg,1
+2ac3970da60d441ccd7935b4650b7c1e,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1368.jpg,Mixed,TN-1368.jpg,2
+30fae15899416fb04720a38a07fbda9b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Cotton Bollworm Infestation/TN-853.jpg,Cotton Bollworm Infestation,TN-853.jpg,0
+8f26450191871a05f137801519f891c4,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1127.jpg,Mixed,TN-1127.jpg,2
+be68585f5d9689e3665e867c8be1c4cc,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-651.jpg,Strong-Light Burn,TN-651.jpg,4
+1f0b71403aa4e4902723b031532c9192,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Cotton Bollworm Infestation/TN-133.jpg,Cotton Bollworm Infestation,TN-133.jpg,0
+7afe57d99b5abd2f311fd430d0613477,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Hail damage/TN-796.jpg,Hail damage,TN-796.jpg,1
+0ee73a8595c52ad18c7638e83ddd86c2,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Hail damages/TN-2525.jpg,Hail damage,TN-2525.jpg,1
+00b6306479519b2844aa5143fa511c34,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Test Dataset/Cotton Bollworm Infestation/TN-184.jpg,Cotton Bollworm Infestation,TN-184.jpg,0
+31a53c9540848cfca962ac6bfd17027f,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Root Damage/TN-786.jpg,Root Damage,TN-786.jpg,3
+79b83529a1376b34170bf9e526668c66,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-179.jpg,Strong-Light Burn,TN-179.jpg,4
+4453e775893693c0455a9c8c7d37ee7a,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-696.jpg,Strong-Light Burn,TN-696.jpg,4
+6ed8f685faf925b78d6946113e32e36b,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Mixed/TN-1577.jpg,Mixed,TN-1577.jpg,2
+52ea27af63b85823b021914ca5f7df32,/home/sparsh/Naplam/Bangladesh-UAV-PlantDisease/Training Dataset/Strong-Light Burn/TN-526.jpg,Strong-Light Burn,TN-526.jpg,4
