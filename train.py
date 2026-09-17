@@ -108,13 +108,15 @@ def evaluate(model, dataloader, criterion, device):
 def main():
     parser = argparse.ArgumentParser(description="Train CNN with Transfer Learning on UAV Cotton Disease Dataset")
     parser.add_argument('--model', type=str, default='mobilenet_v3_small',
-                        choices=['mobilenet_v3_small', 'efficientnet_b3', 'resnet18'])
+                        choices=['custom_base_cnn', 'mobilenet_v3_small', 'resnet18', 'resnet18_partial', 'densenet121', 'efficientnet_b3'])
+    parser.add_argument('--run_name', type=str, default=None,
+                        help="Explicit run name for checkpoint and logging directory")
     parser.add_argument('--pretrained', action='store_true', default=True,
                         help="Enable Transfer Learning from ImageNet weights")
     parser.add_argument('--no-pretrained', dest='pretrained', action='store_false',
                         help="Train from scratch (no transfer learning)")
     parser.add_argument('--freeze_backbone', action='store_true', default=False)
-    parser.add_argument('--epochs', type=int, default=15)
+    parser.add_argument('--epochs', type=int, default=10)
     parser.add_argument('--batch_size', type=int, default=None)
     parser.add_argument('--lr', type=float, default=3e-4)
     parser.add_argument('--weight_decay', type=float, default=1e-4)
@@ -173,14 +175,21 @@ def main():
     scaler = torch.amp.GradScaler('cuda')
     
     # Setup Output Checkpoint Directory
-    mode_str = "transfer" if args.pretrained else "scratch"
-    run_name = f"{args.model}_{mode_str}"
+    if args.run_name:
+        run_name = args.run_name
+    else:
+        mode_str = "transfer" if args.pretrained else "scratch"
+        if args.freeze_backbone:
+            mode_str += "_frozen"
+        run_name = f"{args.model}_{mode_str}"
     save_dir = Path(args.output_dir) / run_name
     save_dir.mkdir(parents=True, exist_ok=True)
     
     history = {
         'model': args.model,
+        'run_name': run_name,
         'pretrained': args.pretrained,
+        'freeze_backbone': args.freeze_backbone,
         'train_loss': [], 'train_acc': [], 'train_f1': [],
         'val_loss': [], 'val_acc': [], 'val_f1': [],
         'epoch_times': []
@@ -219,7 +228,9 @@ def main():
             torch.save({
                 'epoch': epoch,
                 'model_name': args.model,
+                'run_name': run_name,
                 'pretrained': args.pretrained,
+                'freeze_backbone': args.freeze_backbone,
                 'state_dict': model.state_dict(),
                 'val_f1': val_f1,
                 'val_acc': val_acc,

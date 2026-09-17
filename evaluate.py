@@ -79,6 +79,7 @@ def benchmark_inference_speed(model, image_size, device, warmup=20, runs=100):
 def main():
     parser = argparse.ArgumentParser(description="Evaluate Trained Model on UAV Cotton Disease Test Set")
     parser.add_argument('--checkpoint', type=str, required=True, help="Path to best_model.pt")
+    parser.add_argument('--run_name', type=str, default=None, help="Custom run name tag for output files")
     parser.add_argument('--splits_dir', type=str, default='/home/sparsh/Naplam/TrenUAV/data/splits')
     parser.add_argument('--results_dir', type=str, default='/home/sparsh/Naplam/TrenUAV/results')
     parser.add_argument('--batch_size', type=int, default=32)
@@ -93,6 +94,8 @@ def main():
     model_name = checkpoint.get('model_name', 'mobilenet_v3_small')
     image_size = checkpoint.get('image_size', 224)
     pretrained = checkpoint.get('pretrained', True)
+    freeze_backbone = checkpoint.get('freeze_backbone', False)
+    run_name = args.run_name or checkpoint.get('run_name', None)
     
     # Load metadata classes
     with open(Path(args.splits_dir) / 'metadata.json') as f:
@@ -100,7 +103,7 @@ def main():
     classes = metadata['classes']
     
     # Build Model and load state dict
-    model = build_model(model_name=model_name, num_classes=len(classes), pretrained=False).to(device)
+    model = build_model(model_name=model_name, num_classes=len(classes), pretrained=False, freeze_backbone=freeze_backbone).to(device)
     model.load_state_dict(checkpoint['state_dict'])
     model.eval()
     
@@ -147,11 +150,13 @@ def main():
     # Save results
     results_dir = Path(args.results_dir)
     results_dir.mkdir(parents=True, exist_ok=True)
-    run_tag = f"{model_name}_{'transfer' if pretrained else 'scratch'}"
+    run_tag = run_name if run_name else f"{model_name}_{'transfer' if pretrained else 'scratch'}"
     
     output_data = {
         'model_name': model_name,
+        'run_name': run_tag,
         'pretrained': pretrained,
+        'freeze_backbone': freeze_backbone,
         'total_params': total_params,
         'test_accuracy': round(acc, 2),
         'macro_f1': round(macro_f1, 2),

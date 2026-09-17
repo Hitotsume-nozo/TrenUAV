@@ -1,0 +1,87 @@
+{
+  "model_name": "custom_base_cnn",
+  "run_name": "custom_base_cnn_scratch",
+  "pretrained": false,
+  "freeze_backbone": false,
+  "total_params": 422437,
+  "test_accuracy": 71.51,
+  "macro_f1": 68.83,
+  "latency_ms": 1.21,
+  "fps": 826.4,
+  "per_class": {
+    "Cotton Bollworm Infestation": {
+      "precision": 61.46,
+      "recall": 81.29,
+      "f1_score": 70.0,
+      "support": 155
+    },
+    "Hail damage": {
+      "precision": 80.1,
+      "recall": 76.69,
+      "f1_score": 78.36,
+      "support": 399
+    },
+    "Mixed": {
+      "precision": 79.53,
+      "recall": 66.02,
+      "f1_score": 72.15,
+      "support": 359
+    },
+    "Root Damage": {
+      "precision": 73.73,
+      "recall": 63.97,
+      "f1_score": 68.5,
+      "support": 136
+    },
+    "Strong-Light Burn": {
+      "precision": 47.17,
+      "recall": 66.37,
+      "f1_score": 55.15,
+      "support": 113
+    }
+  },
+  "confusion_matrix": [
+    [
+      126,
+      5,
+      6,
+      1,
+      17
+    ],
+    [
+      38,
+      306,
+      35,
+      10,
+      10
+    ],
+    [
+      18,
+      60,
+      237,
+      20,
+      24
+    ],
+    [
+      5,
+      6,
+      5,
+      87,
+      33
+    ],
+    [
+      18,
+      5,
+      15,
+      0,
+      75
+    ]
+  ],
+  "classes": [
+    "Cotton Bollworm Infestation",
+    "Hail damage",
+    "Mixed",
+    "Root Damage",
+    "Strong-Light Burn"
+  ]
+}

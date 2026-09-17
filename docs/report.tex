@@ -19,10 +19,11 @@
 \usepackage{tikz}
 
 % --- Earth & Copper / Botanical Color Palette ---
-\definecolor{ForestGreen}{RGB}{28, 74, 43}      % Primary Headers
+\definecolor{ForestGreen}{RGB}{28, 74, 43}      % Primary Headers & Concepts
 \definecolor{Terracotta}{RGB}{184, 80, 58}      % Accent / Warnings / Contrasts
 \definecolor{HarvestAmber}{RGB}{214, 130, 42}   % Tertiary Highlight
 \definecolor{SageGreen}{RGB}{125, 162, 134}     % Subdued Rules & Borders
+\definecolor{SlateBlue}{RGB}{43, 92, 143}       % Secondary Accent
 \definecolor{LinenBg}{RGB}{252, 250, 246}       % Box Background
 \definecolor{SoftSand}{RGB}{243, 239, 232}      % Header Tables
 \definecolor{BodyText}{RGB}{40, 48, 44}         % Soft Charcoal Body
@@ -90,12 +91,12 @@
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
 \fancyhead[L]{\small\color{ForestGreen}\textbf{UAV Cotton Crop Pathology Classification}}
-\fancyhead[R]{\small\color{BodyText}Transfer Learning \& Architecture Study}
+\fancyhead[R]{\small\color{BodyText}Multi-Architecture \& Transfer Learning Study}
 \fancyfoot[C]{\color{BodyText}\thepage}
 
 % --- Document Metadata ---
-\title{\vspace{-1.5cm}\Huge\textbf{\color{ForestGreen}UAV-Assisted Cotton Crop Disease Classification}\\[0.3em]
-\Large\textbf{\color{Terracotta}A Rigorous Empirical Study on Convolutional Architectures,\\Data Leakage Rectification, and the Transformative Power of Transfer Learning}}
+\title{\vspace{-1.5cm}\Huge\textbf{\color{ForestGreen}UAV-Assisted Cotton Crop Pathology Classification}\\[0.3em]
+\Large\textbf{\color{Terracotta}A Comprehensive Empirical Investigation Across Convolutional Architectures,\\The Tripartite Transfer Learning Taxonomy, and Drone Flight Envelopes}}
 \author{\textbf{Autonomous Agricultural Vision Engineering Laboratory}}
 \date{\today}
 
@@ -104,7 +105,7 @@
 
 \begin{abstract}
 \noindent
-Precision agriculture leveraging Unmanned Aerial Vehicles (UAVs) demands deep vision systems that reconcile high diagnostic precision with constrained edge compute. This technical report presents a comprehensive investigation into convolutional neural network (CNN) architectures, inductive biases, and loss formulations for classifying five distinct cotton crop pathologies and abiotic stresses from drone aerial imagery. We first reveal and remediate severe data leakage vulnerabilities embedded within the raw benchmark splits (including 1,040 cross-split duplicates and class imbalance). We then formulate an empirical ablation study testing the hypothesis: \textit{Can transfer learning empower an ultra-compact, low-parameter architecture (MobileNetV3-Small, 1.52M parameters) to transcend its usual capacity boundaries and achieve parity with heavy multi-scale networks (EfficientNet-B3, 10.70M parameters)?} Our experimental findings demonstrate an extraordinary \textbf{+25.04\% leap in test accuracy} (from \textbf{74.87\%} to \textbf{99.91\%}) and a \textbf{+26.12\% increase in Macro F1} for MobileNetV3-Small upon transferring ImageNet representations, matching the top-line accuracy of EfficientNet-B3 while delivering \textbf{162.7 FPS} (6.15\,ms/frame) with an 8.3$\times$ faster training convergence profile.
+Precision agriculture leveraging Unmanned Aerial Vehicles (UAVs) demands computer vision architectures that reconcile high diagnostic precision with constrained embedded companion compute. This technical report presents a comprehensive empirical and theoretical investigation into convolutional neural network (CNN) architectures, inductive biases, and transfer learning mechanisms for classifying five cotton crop pathologies and abiotic stresses from drone aerial imagery. We first reveal and remediate severe data leakage embedded within the raw benchmark splits (including 1,040 cross-split duplicate images and class imbalance). We then evaluate a multi-model comparative suite encompassing a custom 4-stage Base CNN trained from scratch, MobileNetV3-Small (trained from scratch and fully fine-tuned), ResNet-18 evaluated across two distinct transfer learning paradigms (Linear Probing with a frozen backbone vs. Staged Partial Fine-Tuning), and compound-scaled EfficientNet-B3. Our findings demonstrate an extraordinary performance spectrum: while from-scratch baselines plateau at \textbf{71.51\%} (Base CNN) and \textbf{74.87\%} (MobileNetV3), freezing 99.98\% of ResNet-18 and training a 2,565-parameter linear probe immediately elevates test accuracy to \textbf{83.56\%} (81.98\% Macro F1). Partial fine-tuning of deep residual blocks further surges performance to \textbf{99.74\%} at \textbf{310.9 FPS}, while end-to-end transfer learning on MobileNetV3-Small achieves a top-tier \textbf{99.91\% test accuracy} and \textbf{99.88\% Macro F1} at \textbf{162.7 FPS} (6.15\,ms), matching the high-capacity EfficientNet-B3 (56.0 FPS) while consuming $7\times$ fewer parameters and delivering $2.9\times$ higher frame throughput.
 \end{abstract}
 
 \vspace{0.5cm}
@@ -133,7 +134,7 @@ Cotton (\textit{Gossypium hirsutum}) serves as an indispensable economic fiber g
 % =========================================================================
 
 \subsection{Forensic Audit of the Raw Dataset}
-An exhaustive hash-level forensic analysis was performed on the raw image collection (\texttt{Bangladesh-UAV-} \texttt{PlantDisease}), which contained 10,640 total files across three pre-arranged directories: \texttt{Training Dataset} (5,868 files), \texttt{Test Dataset} (4,772 files), and \texttt{Valid dataset} (747 files). 
+An exhaustive hash-level forensic analysis was performed on the raw image collection (\textit{Bangladesh-UAV-PlantDisease}), which contained 10,640 total files across three pre-arranged directories: \texttt{Training Dataset} (5,868 files), \texttt{Test Dataset} (4,772 files), and \texttt{Valid dataset} (747 files). 
 
 Our automated audit uncovered critical data engineering flaws that would invalidate any naive machine learning evaluation:
 \begin{itemize}
@@ -147,7 +148,7 @@ Our automated audit uncovered critical data engineering flaws that would invalid
 To establish an uncompromised scientific benchmark, all 10,640 files were processed through an automated deduplication and normalization engine:
 \begin{enumerate}
     \item Cryptographic MD5 content hashes were computed for every image file across all splits.
-    \item Every unique hash was cross-referenced across class labels. Crucially, this revealed \textbf{zero label conflicts}—every unique image mapped deterministically to a single ground-truth pathology.
+    \item Every unique hash was cross-referenced across class labels. Crucially, this revealed \textbf{zero label conflicts}---every unique image mapped deterministically to a single ground-truth pathology.
     \item The total clean, deduplicated universe yielded exactly \textbf{7,744 unique images}.
     \item A strict, deterministic \textbf{70\% / 15\% / 15\% Stratified Split} was generated using fixed seed initialization ($\text{seed}=42$), ensuring identical class proportions across training, validation, and test subsets.
 \end{enumerate}
@@ -156,7 +157,8 @@ To establish an uncompromised scientific benchmark, all 10,640 files were proces
 \centering
 \small
 \rowcolors{2}{LinenBg}{white}
-\begin{tabularx}{\textwidth}{clcccc}
+\setlength{\tabcolsep}{5pt}
+\begin{tabularx}{\textwidth}{c>{\raggedright\arraybackslash}Xcccc}
 \toprule
 \rowcolor{SoftSand}
 \textbf{Class ID} & \textbf{Pathology / Stress Category} & \textbf{Total Clean Samples} & \textbf{Train (70\%)} & \textbf{Val (15\%)} & \textbf{Test (15\%)} \\
@@ -203,8 +205,19 @@ The resulting computational reduction ratio $\rho$ is mathematically defined as:
 \end{equation}
 For a typical $3 \times 3$ kernel ($D_K = 3$) with large channel depth $N$, $\rho \approx \frac{1}{9}$, cutting floating-point operations by nearly \textbf{89\%} with negligible representational degradation.
 
+\subsection{Custom 4-Stage Base CNN: The Canonical From-Scratch Baseline}
+To rigorously quantify the empirical lift attributable to transfer learning and advanced architectural motifs, we designed a canonical 4-stage convolutional baseline network (\texttt{CustomBaseCNN}) trained strictly from scratch without any external pretraining priors. Its architecture follows a classical hierarchical feature extraction topology:
+\begin{itemize}
+    \item \textbf{Stage 1 ($224\times 224 \to 112\times 112$)}: $\text{Conv2D}(3 \to 32, 3\times 3, \text{pad}=1) \to \text{BatchNorm2D} \to \text{ReLU} \to \text{MaxPool2D}(2, 2)$.
+    \item \textbf{Stage 2 ($112\times 112 \to 56\times 56$)}: $\text{Conv2D}(32 \to 64, 3\times 3, \text{pad}=1) \to \text{BatchNorm2D} \to \text{ReLU} \to \text{MaxPool2D}(2, 2)$.
+    \item \textbf{Stage 3 ($56\times 56 \to 28\times 28$)}: $\text{Conv2D}(64 \to 128, 3\times 3, \text{pad}=1) \to \text{BatchNorm2D} \to \text{ReLU} \to \text{MaxPool2D}(2, 2)$.
+    \item \textbf{Stage 4 ($28\times 28 \to 14\times 14$)}: $\text{Conv2D}(128 \to 256, 3\times 3, \text{pad}=1) \to \text{BatchNorm2D} \to \text{ReLU} \to \text{MaxPool2D}(2, 2)$.
+    \item \textbf{Classification Head}: $\text{AdaptiveAvgPool2D}(1, 1) \to \text{Flatten} \to \text{Linear}(256 \to 128) \to \text{ReLU} \to \text{Dropout}(p=0.4) \to \text{Linear}(128 \to 5)$.
+\end{itemize}
+All convolutional weights are initialized via Kaiming (He) normal initialization ($\mathcal{N}(0, \sqrt{2/n_{\text{in}}})$). Total parameter count is \textbf{422,437}, providing an ultra-compact baseline to establish the absolute lower bound of scratch learning capability.
+
 \subsection{MobileNetV3-Small: The Ultra-Lightweight Challenger}
-MobileNetV3-Small ($\approx 1.52$\,M parameters) was selected as our low-parameter challenger. Its architecture synthesizes hardware-aware neural architecture search (NAS) with three pivotal innovations:
+MobileNetV3-Small ($\approx 1.52$\,M parameters) synthesizes hardware-aware neural architecture search (NAS) with three pivotal innovations:
 
 \begin{conceptbox}{Key Innovations in MobileNetV3-Small}
 \begin{itemize}
@@ -220,6 +233,17 @@ MobileNetV3-Small ($\approx 1.52$\,M parameters) was selected as our low-paramet
     \end{equation}
 \end{itemize}
 \end{conceptbox}
+
+\subsection{ResNet-18: Deep Residual Learning \& Identity Skip Mappings}
+ResNet-18 ($\approx 11.18$\,M parameters) addresses the degradation and vanishing gradient problems in deep networks by introducing additive identity shortcut mappings. Formally, rather than forcing a stack of convolutional layers to directly approximate an underlying mapping $\mathcal{H}(x)$, the layers are parameterized to approximate a residual mapping:
+\begin{equation}
+    \mathcal{F}(x) = \mathcal{H}(x) - x \quad \implies \quad \mathcal{H}(x) = \mathcal{F}(x, \{W_i\}) + x
+\end{equation}
+During backpropagation, the gradient of the loss $\mathcal{E}$ with respect to the input activation $x$ is:
+\begin{equation}
+    \frac{\partial \mathcal{E}}{\partial x} = \frac{\partial \mathcal{E}}{\partial \mathcal{H}} \left( \frac{\partial \mathcal{F}}{\partial x} + 1 \right)
+\end{equation}
+The additive constant $+1$ ensures that gradients can propagate directly across residual blocks back to early layers without undergoing exponential attenuation, enabling rapid training convergence and stable representations.
 
 \subsection{EfficientNet-B3: The Multi-Scale Compound Heavyweight}
 EfficientNet-B3 ($\approx 10.70$\,M parameters) serves as the high-capacity benchmark. Rather than arbitrarily tuning depth, width, or resolution in isolation, EfficientNet relies on the \textbf{Compound Scaling Principle}.
@@ -237,7 +261,7 @@ For EfficientNet-B3 ($\phi = 3$):
 \end{highlightbox}
 
 % =========================================================================
-\section{Transfer Learning Theory and Inductive Priors}
+\section{Transfer Learning Theory and the Tripartite Taxonomy}
 % =========================================================================
 
 \subsection{Mathematical Formalization of Transfer Learning}
@@ -249,26 +273,49 @@ In our study:
     \item \textbf{Target Domain \& Task ($\mathcal{D}_T, \mathcal{T}_T$)}: $\mathcal{X}_T$ consists of overhead UAV aerial cotton crops, with label space $\mathcal{Y}_T = \{0, 1, 2, 3, 4\}$ representing the 5 specific pathology states.
 \end{itemize}
 
-Transfer learning exploits the condition that the early conditional distributions of low-level visual features are highly invariant across domains:
+Transfer learning exploits the condition that the early conditional distributions of low-level visual features are highly invariant across natural domains:
 \begin{equation}
     P_{\mathcal{D}_S}(\text{edges}, \text{textures} \mid X_S) \approx P_{\mathcal{D}_T}(\text{edges}, \text{textures} \mid X_T)
 \end{equation}
-When training \textbf{from scratch}, the network's weights $\Theta \sim \mathcal{N}(0, \sigma^2)$ are initialized via He/Kaiming normal distributions. In a low-parameter model, the optimization landscape possesses high curvature and numerous local minima; the network must spend thousands of iterations learning elementary Gabor-like filters. 
 
-Under \textbf{inductive transfer learning}, the parameter space is initialized in a basin of attraction $\Theta^{(0)} = \Theta_{\text{ImageNet}}^*$. Optimization only requires adapting higher-level semantic filters to separate necrotic tissue, leaf lacerations, and insect frass.
+\subsection{The Tripartite Taxonomy of Transfer Learning Paradigms}
+To systematically investigate how transferred knowledge interacts with aerial pathology features, we formulate and test three distinct transfer learning paradigms:
+
+\begin{enumerate}
+    \item \textbf{Paradigm 1: Fixed Feature Extraction / Linear Probing (Linear Probe)}:
+    The entire convolutional feature backbone $\Phi(\cdot; \Theta_{\text{frozen}})$ is strictly locked ($\nabla_{\Theta} \mathcal{L} = 0$). Only the newly initialized linear classification projection matrix $W \in \mathbb{R}^{C \times d}$ and bias $b \in \mathbb{R}^C$ are optimized:
+    \begin{equation}
+        \min_{W, b} \frac{1}{|\mathcal{B}|} \sum_{i \in \mathcal{B}} \mathcal{L}_{\text{CW}}\Big(W \cdot \Phi(x_i; \Theta_{\text{frozen}}) + b, \, y_i\Big)
+    \end{equation}
+    In our experiment on \textbf{ResNet-18}, exactly \textbf{2,565 parameters} (0.02\% of the network) are trained, while 11,176,512 parameters remain locked. This rigorously tests whether generic ImageNet representations are linearly separable for crop diseases without any domain adaptation.
+    
+    \item \textbf{Paradigm 2: Staged / Partial Layer-Wise Fine-Tuning (Partial Transfer)}:
+    The early visual stages $\Theta_{\text{shallow}} = \{\text{conv1}, \text{bn1}, \text{layer1}, \text{layer2}\}$ are frozen to lock generic edge and texture primitives, while the deep semantic stages $\Theta_{\text{deep}} = \{\text{layer3}, \text{layer4}, \text{fc}\}$ are unlocked for gradient updates:
+    \begin{equation}
+        \Theta_{\text{shallow}}^{(t+1)} = \Theta_{\text{shallow}}^{(t)}, \qquad \Theta_{\text{deep}}^{(t+1)} = \Theta_{\text{deep}}^{(t)} - \eta_t \nabla_{\Theta_{\text{deep}}} \mathcal{L}_{\text{CW}}
+    \end{equation}
+    In our \textbf{ResNet-18 Partial} implementation, \textbf{6,069,253 parameters (54.3\%)} are actively trained. This allows higher-order receptive fields to specialize for necrotic tissue, wilting, and insect boreholes while preserving foundational spatial filters.
+    
+    \item \textbf{Paradigm 3: Full End-to-End Fine-Tuning (Full Transfer)}:
+    All parameters across the entire network $\Theta = \{\Theta_{\text{backbone}}, \Theta_{\text{head}}\}$ are jointly updated under a conservative learning rate with cosine decay:
+    \begin{equation}
+        \Theta^{(t+1)} = \Theta^{(t)} - \eta_t \nabla_{\Theta} \mathcal{L}_{\text{CW}}
+    \end{equation}
+    Evaluated on \textbf{MobileNetV3-Small} (1.52M parameters) and \textbf{EfficientNet-B3} (10.70M parameters).
+\end{enumerate}
 
 % =========================================================================
 \section{Loss Functions, Imbalance Balancing, and Training Strategy}
 % =========================================================================
 
 \subsection{Balanced Class-Weighted Cross-Entropy Loss}
-As detailed in Table~\ref{tab:splits}, our cotton dataset exhibits substantial class imbalance: \textit{Hail damage} ($34.3\%$) and \textit{Mixed} ($30.9\%$) represent nearly two-thirds of the data, while \textit{Strong-Light Burn} comprises only $9.7\%$. Standard cross-entropy would bias the model toward the majority classes.
+As detailed in Table~\ref{tab:splits}, our cotton dataset exhibits substantial class imbalance: \textit{Hail damage} (34.3\%) and \textit{Mixed} (30.9\%) represent nearly two-thirds of the data, while \textit{Strong-Light Burn} comprises only 9.7\%. Standard cross-entropy would bias the model toward the majority classes.
 
 To guarantee equitable gradient flow across minority conditions, we formulated a dynamically balanced class weighting vector $w \in \mathbb{R}^C$:
 \begin{equation}
     w_c = \frac{N}{C \cdot N_c}, \quad \text{normalized such that} \quad \frac{1}{C}\sum_{c=1}^C w_c = 1.0
 \end{equation}
-where $N$ is the total training population ($5,421$), $C=5$ is the number of classes, and $N_c$ is the training sample count for class $c$. The calculated weight vector was:
+where $N = 5,421$ is the total training population, $C=5$ is the number of classes, and $N_c$ is the training sample count for class $c$. The calculated weight vector is:
 \begin{equation}
     w = \begin{bmatrix} 1.16 & 0.45 & 0.50 & 1.31 & 1.58 \end{bmatrix}^T
 \end{equation}
@@ -280,13 +327,13 @@ where $z_i$ represents the raw unnormalized logits output by the classifier head
 
 \subsection{Optimization, Mixed Precision, and Scheduling}
 \begin{itemize}
-    \item \textbf{Decoupled Weight Decay Optimizer (AdamW)}: Employed with initial base learning rate $\eta_0 = 3 \times 10^{-4}$ and weight decay coefficient $\lambda = 10^{-4}$.
+    \item \textbf{Decoupled Weight Decay Optimizer (AdamW)}: Employed with initial base learning rate $\eta_0 = 3 \times 10^{-4}$ (or $\eta_0 = 10^{-3}$ for the linear probe) and weight decay coefficient $\lambda = 10^{-4}$.
     \item \textbf{Cosine Annealing Schedule}: Decays the learning rate to prevent late-stage gradient chatter:
     \begin{equation}
         \eta_t = \eta_{\min} + \frac{1}{2}(\eta_0 - \eta_{\min})\left(1 + \cos\left(\frac{t}{T_{\max}}\pi\right)\right), \quad \text{with } \eta_{\min} = 10^{-6}, \, T_{\max} = 10
     \end{equation}
-    \item \textbf{Hardware Acceleration via PyTorch AMP}: Automated Mixed Precision (`torch.amp.autocast('cuda')`) was utilized on the NVIDIA GTX 1650 (Turing architecture). By casting activations to IEEE FP16 while maintaining master weights in FP32, memory traffic was reduced by $\sim 50\%$, preventing GPU out-of-memory errors.
-    \item \textbf{Drone-Perspective Data Augmentation}: Implemented $360^\circ$ random rotations, horizontal/vertical flips, and color jittering ($\pm 20\%$ brightness/contrast/saturation) to simulate varying sun angles and drone flight headings.
+    \item \textbf{Hardware Acceleration via PyTorch AMP}: Automated Mixed Precision (AMP) was utilized on the NVIDIA GTX 1650 (Turing architecture), reducing memory traffic by $\approx 50\%$ while maintaining numerical stability.
+    \item \textbf{Drone-Perspective Data Augmentation}: Implemented $360^\circ$ random rotations, horizontal/vertical flips, random resized cropping (scale 0.75--1.0), and color jittering ($\pm 20\%$ brightness/contrast/saturation) to simulate varying sun angles and drone flight headings.
 \end{itemize}
 
 % =========================================================================
@@ -294,96 +341,119 @@ where $z_i$ represents the raw unnormalized logits output by the classifier head
 % =========================================================================
 
 \subsection{Overall Model Scorecard}
-The three architectures were evaluated on the 1,162 strictly held-out test images. Table~\ref{tab:scorecard} summarizes the quantitative findings.
+All six experimental configurations were evaluated on the 1,162 strictly held-out test images. Table~\ref{tab:scorecard} summarizes the quantitative findings across model capacity, transfer paradigms, diagnostic precision, and inference throughput.
 
 \begin{table}[htbp]
 \centering
 \rowcolors{2}{LinenBg}{white}
 \small
+\resizebox{\textwidth}{!}{%
 \begin{tabular}{lcccccc}
 \toprule
 \rowcolor{SoftSand}
-\textbf{Model Architecture} & \textbf{Initial Weights} & \textbf{Parameters} & \textbf{Test Acc.} & \textbf{Macro F1} & \textbf{Latency} & \textbf{FPS} \\
+\textbf{Model \& Paradigm} & \textbf{Initial Weights} & \textbf{Total Params} & \textbf{Trainable} & \textbf{Test Acc.} & \textbf{Macro F1} & \textbf{Throughput (Latency)} \\
 \midrule
-MobileNetV3-Small & Random (Scratch) & 1.52 M & 74.87\% & 73.76\% & 6.08 ms & 164.4 \\
-\textbf{MobileNetV3-Small} & \textbf{ImageNet (Transfer)} & \textbf{1.52 M} & \textbf{99.91\%} & \textbf{99.88\%} & \textbf{6.15 ms} & \textbf{162.7} \\
-EfficientNet-B3 & ImageNet (Transfer) & 10.70 M & 99.91\% & 99.88\% & 17.86 ms & 56.0 \\
+Base CNN (Scratch) & Random (He) & 0.42 M & 422 K (100\%) & 71.51\% & 68.83\% & \textbf{826.4 FPS} (1.21 ms) \\
+MobileNetV3-Small (Scratch) & Random (He) & 1.52 M & 1.52 M (100\%) & 74.87\% & 73.76\% & 164.4 FPS (6.08 ms) \\
+\midrule
+ResNet-18 (Linear Probe) & ImageNet-1K & 11.18 M & \textbf{2.5 K (0.02\%)} & 83.56\% & 81.98\% & 316.2 FPS (3.16 ms) \\
+ResNet-18 (Partial Transfer) & ImageNet-1K & 11.18 M & 6.07 M (54.3\%) & 99.74\% & 99.68\% & 310.9 FPS (3.22 ms) \\
+\textbf{MobileNetV3 (Full Transfer)} & \textbf{ImageNet-1K} & \textbf{1.52 M} & \textbf{1.52 M (100\%)} & \textbf{99.91\%} & \textbf{99.88\%} & \textbf{162.7 FPS (6.15 ms)} \\
+EfficientNet-B3 (Scaled Transfer) & ImageNet-1K & 10.70 M & 10.70 M (100\%) & \textbf{99.91\%} & \textbf{99.88\%} & 56.0 FPS (17.86 ms) \\
 \bottomrule
-\end{tabular}
-\caption{\textbf{Comprehensive Model Performance Benchmark on 1,162 Held-Out UAV Test Images}. MobileNetV3-Small with Transfer Learning matches EfficientNet-B3 while delivering 2.9$\times$ higher inference throughput.}
+\end{tabular}%
+}
+\caption{\textbf{Master Performance Benchmark on 1,162 Held-Out UAV Test Images}. The study demonstrates the progression from scratch learning (71--75\%) to linear probing (83.56\%), partial transfer (99.74\%), and full transfer (99.91\%).}
 \label{tab:scorecard}
 \end{table}
 
 \begin{figure}[htbp]
     \centering
-    \includegraphics[width=0.95\textwidth]{results/models_comparison.png}
-    \caption{\textbf{Quantitative Benchmark Comparison}. Left: Test Accuracy and Macro F1 comparison highlighting the +25.04\% leap achieved by transfer learning on MobileNetV3-Small. Right: Edge inference latency on NVIDIA GTX 1650 (lower is better).}
+    \includegraphics[width=0.98\textwidth]{results/models_comparison.png}
+    \caption{\textbf{Quantitative Benchmark Comparison Across All Models}. Left: Test Accuracy and Macro F1 comparison highlighting the progressive gains from scratch baselines through Linear Probing, Partial Fine-Tuning, and Full Transfer Learning. Right: Edge inference latency on NVIDIA GTX 1650 (lower is better).}
     \label{fig:comparison}
 \end{figure}
 
-\subsection{The Power of Transfer Learning on a Compact Backbone}
-Comparing the identical MobileNetV3-Small architecture with and without pretrained weights yields the empirical proof of our core thesis:
+\subsection{The Progressive Spectrum of Transfer Learning}
+Analyzing the empirical trajectory across paradigms reveals fundamental insights into deep convolutional representations:
 
-\begin{resultbox}{Empirical Proof of the Transfer Learning Thesis}
+\begin{resultbox}{Key Empirical Findings from the Transfer Spectrum}
 \begin{itemize}
-    \item \textbf{Accuracy Jump}: Transfer learning yields a massive \textbf{+25.04\% gain in test accuracy} (rising from 74.87\% to 99.91\%).
-    \item \textbf{Macro F1-Score Lift}: Macro F1 improves by \textbf{+26.12\%} (rising from 73.76\% to 99.88\%).
-    \item \textbf{Minority Class Sensitivity}: For \textit{Strong-Light Burn}, the from-scratch model achieved a poor precision of 53.25\% due to confusing sun glare with dry ground. Pretrained transfer learning elevated precision to \textbf{99.12\%} and recall to \textbf{100.00\%} (+35.73\% F1 improvement).
-    \item \textbf{Bollworm Pinhole Detection}: F1-score for \textit{Cotton Bollworm Infestation} improved by \textbf{+30.12\%} (69.88\% $\rightarrow$ 100.00\%), proving that pretrained spatial filters are essential for isolating sub-centimeter boreholes.
+    \item \textbf{The Linear Probing Baseline (+12.05\% over Scratch)}: By freezing 99.98\% of ResNet-18 and training only a single linear layer (2,565 parameters), test accuracy reaches \textbf{83.56\%}---vastly exceeding the from-scratch Base CNN (71.51\%) and MobileNetV3 (74.87\%). This proves that ImageNet visual manifolds provide rich generic visual primitives (chlorotic edges, textural gradients) that are linearly separable even before domain fine-tuning.
+    \item \textbf{The Partial Fine-Tuning Leap (+16.18\% over Linear Probe)}: Unfreezing the deep residual stages ($\text{layer3}, \text{layer4}$) allows the network to adapt semantic receptive fields, driving accuracy from 83.56\% to \textbf{99.74\%} and Macro F1 to \textbf{99.68\%}, while delivering over \textbf{310 FPS}.
+    \item \textbf{Full Transfer Parity}: MobileNetV3-Small with full transfer achieves \textbf{99.91\% accuracy} (1,161 out of 1,162 correct), exactly matching the heavy EfficientNet-B3 while running at \textbf{162.7 FPS} versus EfficientNet's 56.0 FPS ($2.9\times$ speedup).
 \end{itemize}
 \end{resultbox}
 
 \begin{figure}[htbp]
     \centering
     \includegraphics[width=\textwidth]{results/training_curves.png}
-    \caption{\textbf{Training Dynamics Over 10 Epochs}. MobileNetV3-Small with Transfer Learning (green) and EfficientNet-B3 (amber) reach $>98\%$ validation accuracy by Epoch 2, whereas the from-scratch baseline (red) struggles to surpass 74\%.}
+    \caption{\textbf{Validation Loss and Accuracy Trajectories Across 10 Epochs}. Pretrained models (solid lines) converge rapidly by Epoch 2--3, whereas from-scratch models (dashed lines) lag significantly throughout the optimization envelope.}
     \label{fig:curves}
 \end{figure}
 
-\subsection{Per-Class Metrics and Confusion Matrix Analysis}
-Table~\ref{tab:per_class} compares per-class diagnostic performance across all 1,162 test samples.
+\subsection{Per-Class Metrics and Diagnostic Dissection}
+Table~\ref{tab:per_class} compares per-class diagnostic performance across models on all 1,162 test samples.
 
 \begin{table}[htbp]
 \centering
-\footnotesize
-\begin{tabularx}{\textwidth}{l|ccc|ccc|c}
+\scriptsize
+\rowcolors{2}{LinenBg}{white}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l|ccc|ccc|ccc|c}
 \toprule
 \rowcolor{SoftSand}
-& \multicolumn{3}{c|}{\textbf{MobileNetV3 (Scratch)}} & \multicolumn{3}{c|}{\textbf{MobileNetV3 (Transfer)}} & \\
+& \multicolumn{3}{c|}{\textbf{Base CNN (Scratch)}} & \multicolumn{3}{c|}{\textbf{ResNet-18 (Linear Probe)}} & \multicolumn{3}{c|}{\textbf{MobileNetV3 (Transfer)}} & \\
 \rowcolor{SoftSand}
-\textbf{Disease Category} & \textbf{Prec.} & \textbf{Rec.} & \textbf{F1} & \textbf{Prec.} & \textbf{Rec.} & \textbf{F1} & \textbf{Support} \\
+\textbf{Pathology Category} & \textbf{Prec.} & \textbf{Rec.} & \textbf{F1} & \textbf{Prec.} & \textbf{Rec.} & \textbf{F1} & \textbf{Prec.} & \textbf{Rec.} & \textbf{F1} & \textbf{Support} \\
 \midrule
-Cotton Bollworm Infestation & 65.54\% & 74.84\% & 69.88\% & 100.00\% & 100.00\% & \textbf{100.00\%} & 155 \\
-Hail damage & 84.02\% & 76.44\% & 80.05\% & 100.00\% & 100.00\% & \textbf{100.00\%} & 399 \\
-Mixed Distress & 80.27\% & 66.85\% & 72.95\% & 100.00\% & 99.72\% & \textbf{99.86\%} & 359 \\
-Root Damage & 77.27\% & 87.50\% & 82.07\% & 100.00\% & 100.00\% & \textbf{100.00\%} & 136 \\
-Strong-Light Burn & 53.25\% & 79.65\% & 63.83\% & 99.12\% & 100.00\% & \textbf{99.56\%} & 113 \\
+Cotton Bollworm Infestation & 61.46\% & 81.29\% & 70.00\% & 93.33\% & 81.29\% & 86.90\% & 100.00\% & 100.00\% & \textbf{100.00\%} & 155 \\
+Hail damage & 80.10\% & 76.69\% & 78.36\% & 91.48\% & 80.70\% & 85.75\% & 100.00\% & 100.00\% & \textbf{100.00\%} & 399 \\
+Mixed Distress & 79.53\% & 66.02\% & 72.15\% & 81.77\% & 89.97\% & 85.68\% & 100.00\% & 99.72\% & \textbf{99.86\%} & 359 \\
+Root Damage & 73.73\% & 63.97\% & 68.50\% & 70.83\% & 75.00\% & 72.86\% & 100.00\% & 100.00\% & \textbf{100.00\%} & 136 \\
+Strong-Light Burn & 47.17\% & 66.37\% & 55.15\% & 72.06\% & 86.73\% & 78.71\% & 99.12\% & 100.00\% & \textbf{99.56\%} & 113 \\
 \midrule
 \rowcolor{SoftSand}
-\textbf{Macro Average} & \textbf{72.07\%} & \textbf{77.06\%} & \textbf{73.76\%} & \textbf{99.82\%} & \textbf{99.94\%} & \textbf{99.88\%} & \textbf{1,162} \\
+\textbf{Macro Average} & \textbf{68.40\%} & \textbf{70.87\%} & \textbf{68.83\%} & \textbf{81.89\%} & \textbf{82.74\%} & \textbf{81.98\%} & \textbf{99.82\%} & \textbf{99.94\%} & \textbf{99.88\%} & \textbf{1,162} \\
 \bottomrule
-\end{tabularx}
-\caption{\textbf{Per-Class Evaluation Metrics on the Held-Out Test Set}. Note the massive precision recovery in Strong-Light Burn and Bollworm Infestation.}
+\end{tabular}%
+}
+\caption{\textbf{Per-Class Performance Dissection on the Held-Out Test Set}. Notice the progression in minority class precision for Strong-Light Burn: from 47.17\% (Scratch) $\to$ 72.06\% (Linear Probe) $\to$ 99.12\% (Full Transfer).}
 \label{tab:per_class}
 \end{table}
 
 \begin{figure}[htbp]
     \centering
-    \begin{subfigure}[b]{0.48\textwidth}
-        \includegraphics[width=\textwidth]{results/mobilenet_v3_small_scratch_confusion_matrix.png}
-        \caption{MobileNetV3-Small (From Scratch)}
+    \begin{subfigure}[b]{0.32\textwidth}
+        \includegraphics[width=\textwidth]{results/custom_base_cnn_scratch_confusion_matrix.png}
+        \caption{Base CNN (Scratch: 71.51\%)}
     \end{subfigure}
     \hfill
-    \begin{subfigure}[b]{0.48\textwidth}
-        \includegraphics[width=\textwidth]{results/mobilenet_v3_small_transfer_confusion_matrix.png}
-        \caption{MobileNetV3-Small (Transfer Learning)}
+    \begin{subfigure}[b]{0.32\textwidth}
+        \includegraphics[width=\textwidth]{results/mobilenet_v3_small_scratch_confusion_matrix.png}
+        \caption{MobileNetV3 (Scratch: 74.87\%)}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.32\textwidth}
+        \includegraphics[width=\textwidth]{results/resnet18_frozen_confusion_matrix.png}
+        \caption{ResNet-18 (Linear Probe: 83.56\%)}
     \end{subfigure}
     \vskip\baselineskip
-    \begin{subfigure}[b]{0.48\textwidth}
-        \includegraphics[width=\textwidth]{results/efficientnet_b3_transfer_confusion_matrix.png}
-        \caption{EfficientNet-B3 (Transfer Learning)}
+    \begin{subfigure}[b]{0.32\textwidth}
+        \includegraphics[width=\textwidth]{results/resnet18_partial_confusion_matrix.png}
+        \caption{ResNet-18 (Partial: 99.74\%)}
     \end{subfigure}
-    \caption{\textbf{Confusion Matrices on 1,162 Held-Out UAV Test Samples}. While the from-scratch model exhibits widespread off-diagonal dispersion, the transfer learning models achieve near-perfect diagonal concentration (1,161 out of 1,162 correct).}
+    \hfill
+    \begin{subfigure}[b]{0.32\textwidth}
+        \includegraphics[width=\textwidth]{results/mobilenet_v3_small_transfer_confusion_matrix.png}
+        \caption{MobileNetV3 (Transfer: 99.91\%)}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.32\textwidth}
+        \includegraphics[width=\textwidth]{results/efficientnet_b3_transfer_confusion_matrix.png}
+        \caption{EfficientNet-B3 (Transfer: 99.91\%)}
+    \end{subfigure}
+    \caption{\textbf{Comprehensive Confusion Matrix Suite on 1,162 Held-Out UAV Test Samples}. From scratch baselines (top left/center) display prominent off-diagonal misclassifications; linear probing (top right) consolidates predictions along the diagonal; partial and full transfer models (bottom row) achieve near-perfect classification (up to 1,161/1,162 correct).}
     \label{fig:confusion_matrices}
 \end{figure}
 
@@ -392,24 +462,25 @@ Strong-Light Burn & 53.25\% & 79.65\% & 63.83\% & 99.12\% & 100.00\% & \textbf{9
 % =========================================================================
 
 \subsection{Real-Time Flight Envelope and Companion Compute}
-In commercial UAV agricultural missions, imagery is acquired at frame rates between 30 and 60 FPS from high-resolution gimbals. An effective onboard diagnostic payload must classify incoming frames in real-time without buffering backlogs:
+In commercial UAV agricultural missions, cameras acquire imagery at 30 to 60 FPS. An effective onboard diagnostic payload must classify incoming frames in real-time without buffering backlogs:
 \begin{itemize}
-    \item \textbf{Latency Envelope}: MobileNetV3-Small processes each frame in \textbf{6.15\,ms} ($\approx 162.7$\,FPS), occupying merely $37\%$ of a standard 60\,FPS frame budget (16.6\,ms). This leaves ample compute for simultaneous visual odometry, SLAM, and GPS geotagging.
-    \item \textbf{Embedded Low-Power Feasibility}: On low-power embedded companion computers (e.g., NVIDIA Jetson Orin Nano with a 7W–15W power envelope or Raspberry Pi 5 with an Edge TPU), MobileNetV3-Small's 1.52M parameter footprint translates to negligible memory bandwidth stress and low thermal throttling risks.
-    \item \textbf{The Inefficiency of Heavy Architectures}: EfficientNet-B3 requires 17.86\,ms on desktop GPU hardware, which would exceed real-time 60 FPS thresholds on embedded edge hardware, with no discernible gain in diagnostic accuracy.
+    \item \textbf{Base CNN Scratch}: While operating at \textbf{826.4 FPS} (1.21 ms), its 71.51\% diagnostic accuracy is unacceptable for autonomous spot spraying where misclassifying healthy crops or missing pests leads to crop damage.
+    \item \textbf{ResNet-18 Partial Transfer}: Delivers \textbf{310.9 FPS} (3.22 ms) at \textbf{99.74\% accuracy}. For industrial companion computers with hardware Tensor Cores, ResNet-18 is exceptionally fast and simple to deploy via TensorRT.
+    \item \textbf{MobileNetV3-Small Full Transfer}: The definitive \textbf{Pareto-optimal champion}. With \textbf{99.91\% accuracy}, \textbf{162.7 FPS} (6.15 ms/frame), and only \textbf{1.52M parameters}, it occupies only $37\%$ of a standard 60\,FPS frame budget (16.6\,ms). This leaves ample headroom for concurrent visual odometry, SLAM, and GPS geotagging on low-power platforms like the NVIDIA Jetson Orin Nano (7W--15W) or Raspberry Pi 5.
+    \item \textbf{EfficientNet-B3}: At 17.86 ms on desktop GPU, throughput is limited to \textbf{56.0 FPS}, which risks dropping frames on edge devices without offering any diagnostic advantage over MobileNetV3.
 \end{itemize}
 
 % =========================================================================
 \section{Conclusion}
 % =========================================================================
 
-This investigation resolved the data leakage pitfalls of the Bangladesh UAV plant disease benchmark and demonstrated the decisive role of transfer learning in agricultural aerial diagnostics. Specifically:
+This investigation resolved the critical data leakage vulnerabilities in the UAV cotton pathology benchmark and presented a comprehensive empirical evaluation of convolutional architectures and transfer learning paradigms. Specifically:
 \begin{enumerate}
     \item \textbf{Leakage Elimination}: Purged 1,040 cross-split duplicates, creating a clean 7,744-image benchmark with zero label ambiguity.
-    \item \textbf{Ablation Confirmation}: Demonstrated that transfer learning elevates a lightweight, mobile-optimized model (MobileNetV3-Small) from an inadequate 74.87\% scratch baseline to a near-flawless \textbf{99.91\% test accuracy}.
-    \item \textbf{Architectural Parity}: Proved that low-parameter models with rich inductive transfer can fully match the accuracy of architectures 7$\times$ their size (EfficientNet-B3) while operating at \textbf{162.7 FPS}.
+    \item \textbf{The Transfer Learning Spectrum}: Established the quantitative hierarchy: Base CNN Scratch (71.51\%) $\to$ MobileNetV3 Scratch (74.87\%) $\to$ ResNet-18 Linear Probe (83.56\%) $\to$ ResNet-18 Partial Transfer (99.74\%) $\to$ MobileNetV3 Full Transfer (99.91\%).
+    \item \textbf{Efficiency Verification}: Proved that low-parameter models with rich inductive transfer (MobileNetV3-Small) achieve full diagnostic parity with architectures $7\times$ their size (EfficientNet-B3) while operating at \textbf{162.7 FPS}.
 \end{enumerate}
 
-All model checkpoints, split manifests, and pipeline scripts are fully preserved in the \texttt{TrenUAV} repository for edge compilation and onboard UAV deployment.
+All model checkpoints, training histories, split manifests, and evaluation artifacts are fully preserved in the \texttt{TrenUAV} repository for edge compilation and onboard UAV deployment.
 
 \end{document}

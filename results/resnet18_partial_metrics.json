@@ -1,0 +1,87 @@
+{
+  "model_name": "resnet18_partial",
+  "run_name": "resnet18_partial",
+  "pretrained": true,
+  "freeze_backbone": false,
+  "total_params": 11179077,
+  "test_accuracy": 99.74,
+  "macro_f1": 99.68,
+  "latency_ms": 3.22,
+  "fps": 310.9,
+  "per_class": {
+    "Cotton Bollworm Infestation": {
+      "precision": 99.36,
+      "recall": 100.0,
+      "f1_score": 99.68,
+      "support": 155
+    },
+    "Hail damage": {
+      "precision": 99.75,
+      "recall": 100.0,
+      "f1_score": 99.87,
+      "support": 399
+    },
+    "Mixed": {
+      "precision": 100.0,
+      "recall": 99.44,
+      "f1_score": 99.72,
+      "support": 359
+    },
+    "Root Damage": {
+      "precision": 100.0,
+      "recall": 100.0,
+      "f1_score": 100.0,
+      "support": 136
+    },
+    "Strong-Light Burn": {
+      "precision": 99.12,
+      "recall": 99.12,
+      "f1_score": 99.12,
+      "support": 113
+    }
+  },
+  "confusion_matrix": [
+    [
+      155,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      399,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      357,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      136,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      112
+    ]
+  ],
+  "classes": [
+    "Cotton Bollworm Infestation",
+    "Hail damage",
+    "Mixed",
+    "Root Damage",
+    "Strong-Light Burn"
+  ]
+}
